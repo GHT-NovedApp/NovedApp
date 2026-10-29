@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "codigo": "OPR",
+        "nombre": "Operativa",
+        "descripcion": "",
+        "estado": 1,
+        "fecha_creacion": "2026-10-13 16:17:56"
+    },
+    {
+        "id": 2,
+        "codigo": "SEG",
+        "nombre": "Seguridad",
+        "descripcion": "",
+        "estado": 1,
+        "fecha_creacion": "2026-10-13 16:17:56"
+    },
+    {
+        "id": 3,
+        "codigo": "SST",
+        "nombre": "Salud y Seguridad",
+        "descripcion": "",
+        "estado": 1,
+        "fecha_creacion": "2026-10-13 16:17:56"
+    },
+    {
+        "id": 4,
+        "codigo": "BDS",
+        "nombre": "Breakdown Services",
+        "descripcion": "",
+        "estado": 1,
+        "fecha_creacion": "2026-10-13 16:17:56"
+    },
+    {
+        "id": 5,
+        "codigo": "GC",
+        "nombre": "Gestión de Calidad",
+        "descripcion": "",
+        "estado": 1,
+        "fecha_creacion": "2026-10-13 16:17:56"
+    },
+    {
+        "id": 6,
+        "codigo": "OSL",
+        "nombre": "Operaciones Logísticas",
+        "descripcion": "",
+        "estado": 1,
+        "fecha_creacion": "2026-10-13 16:17:56"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "codigo": "EXP",
+        "clave": "exportacion",
+        "nombre": "Exportación",
+        "descripcion": "",
+        "estado": 1,
+        "fecha_creacion": "2026-10-09 18:40:53"
+    },
+    {
+        "id": 2,
+        "codigo": "IMP",
+        "clave": "importacion",
+        "nombre": "Importación",
+        "descripcion": "",
+        "estado": 1,
+        "fecha_creacion": "2026-10-09 18:40:53"
+    },
+    {
+        "id": 3,
+        "codigo": "MVCS",
+        "clave": "mvcs",
+        "nombre": "MVCS",
+        "descripcion": "",
+        "estado": 1,
+        "fecha_creacion": "2026-10-09 18:40:53"
+    }
+]

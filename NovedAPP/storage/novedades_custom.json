@@ -1,0 +1,567 @@
+{
+    "ACCIDENTE_DE_TRABAJO": {
+        "titulo": "ACCIDENTE_DE_TRABAJO",
+        "eje": "Personas",
+        "tipo_cls": "Actos Inseguros",
+        "subtipo": "Conductas",
+        "tipo_operacion": [
+            "exportacion",
+            "importacion",
+            "mvcs"
+        ],
+        "tipologia": "SST",
+        "descripcion": "ESTA NOVEDAD APLICA CUANDO SE EVIDENCIA UNA CONDUCTA DE TIPO ACTO INSEGURO EN EL EJE DE PERSONAS",
+        "requiere_respuesta": true,
+        "requiere_adjunto": true,
+        "involucra_terrestre": true,
+        "involucra_vuelo": true,
+        "involucra_tiempos": true,
+        "notificar_admin": true,
+        "notificar_torre": true,
+        "actores_reportantes": [
+            "7K",
+            "AdC",
+            "CECO",
+            "CEDI",
+            "EAI",
+            "GHT",
+            "OCA",
+            "OSL",
+            "OTA",
+            "OTT"
+        ],
+        "actores_respondentes": [
+            "AdC",
+            "CECO",
+            "CEDI",
+            "EAI",
+            "OCA",
+            "OSL",
+            "OTT"
+        ],
+        "actores_etiquetables": [
+            "AdC",
+            "CECO",
+            "CEDI",
+            "EAI",
+            "OCA",
+            "OSL",
+            "OTT"
+        ],
+        "causales": [],
+        "campos_grupo": {
+            "terrestre": [
+                "ott",
+                "placa",
+                "conductor",
+                "auxiliar",
+                "cedula",
+                "ota",
+                "uc",
+                "eai"
+            ],
+            "aereo": [
+                "mawb",
+                "hawb",
+                "num_vuelo",
+                "ota_aereo",
+                "piezas_reservadas",
+                "cajas_reservadas",
+                "piezas_recibidas",
+                "cajas_recibidas"
+            ],
+            "tiempos": [
+                "hora_reporte",
+                "hora_est_arribo",
+                "arribo",
+                "llegada",
+                "inicio_cargue",
+                "fin_cargue",
+                "salida",
+                "total_cajas",
+                "cajas_cargadas",
+                "espera_porteria",
+                "tiempo_espera",
+                "pct_cargue",
+                "tpcc"
+            ]
+        },
+        "campos": [],
+        "info_necesaria": [],
+        "activo": true,
+        "datos_minimos": "",
+        "creado_por": "admin",
+        "fecha_creacion": "2026-10-07 15:35:25",
+        "tipologias": [
+            "SST"
+        ]
+    },
+    "CONDICIONES_INADECUADAS_PERSONAS": {
+        "titulo": "CONDICIONES_INADECUADAS_PERSONAS",
+        "eje": "Personas",
+        "tipo_cls": "Actos Inseguros",
+        "subtipo": "Conductas",
+        "tipo_operacion": [
+            "exportacion",
+            "importacion",
+            "mvcs"
+        ],
+        "tipologia": "SST",
+        "descripcion": "",
+        "requiere_respuesta": true,
+        "requiere_adjunto": true,
+        "involucra_terrestre": false,
+        "involucra_vuelo": false,
+        "involucra_tiempos": false,
+        "notificar_admin": true,
+        "notificar_torre": true,
+        "actores_reportantes": [
+            "AdC",
+            "CECO",
+            "CEDI",
+            "EAI",
+            "OCA",
+            "OSL",
+            "OTT"
+        ],
+        "actores_respondentes": [
+            "AdC",
+            "CECO",
+            "CEDI",
+            "EAI",
+            "OCA",
+            "OSL",
+            "OTT"
+        ],
+        "actores_etiquetables": [
+            "AdC",
+            "CECO",
+            "CEDI",
+            "EAI",
+            "OCA",
+            "OSL",
+            "OTT"
+        ],
+        "causales": [
+            "CANSANCIO",
+            "NERVIOSISMO",
+            "ALIENTO ALCOHOLICO",
+            "MOTROCIDAD O COORDINACION ALTERADA",
+            "MARCHA INESTABLE",
+            "DETERIORO DE FUNCIONES COGNITIVAS",
+            "DETERIORO DE LA FACULTAD CRITICA Y DEL ESTADO DEL HUMOR",
+            "OTROS"
+        ],
+        "campos_grupo": [],
+        "campos": [],
+        "info_necesaria": [],
+        "activo": true,
+        "datos_minimos": "",
+        "creado_por": "admin",
+        "fecha_creacion": "2026-10-20 19:37:39",
+        "tipologias": [
+            "SST"
+        ]
+    },
+    "EPP_AUSENTE": {
+        "titulo": "EPP_AUSENTE",
+        "eje": "Personas",
+        "tipo_cls": "Actos Inseguros",
+        "subtipo": "Elementos de Proteccion",
+        "tipo_operacion": [
+            "exportacion",
+            "importacion",
+            "mvcs"
+        ],
+        "tipologia": "SST",
+        "descripcion": "",
+        "requiere_respuesta": true,
+        "requiere_adjunto": true,
+        "involucra_terrestre": true,
+        "involucra_vuelo": false,
+        "involucra_tiempos": false,
+        "notificar_admin": true,
+        "notificar_torre": true,
+        "actores_reportantes": [
+            "AdC",
+            "CECO",
+            "CEDI",
+            "EAI",
+            "OCA",
+            "OSL",
+            "OTT"
+        ],
+        "actores_respondentes": [
+            "AdC",
+            "CECO",
+            "CEDI",
+            "EAI",
+            "OCA",
+            "OSL",
+            "OTT"
+        ],
+        "actores_etiquetables": [
+            "AdC",
+            "CECO",
+            "CEDI",
+            "EAI",
+            "OCA",
+            "OSL",
+            "OTT"
+        ],
+        "causales": [
+            "CASCO DE SEGURIDAD",
+            "GUANTES",
+            "CHALECO REFLECTIVO",
+            "BOTAS",
+            "OTROS"
+        ],
+        "campos_grupo": {
+            "terrestre": [
+                "ott",
+                "placa",
+                "conductor",
+                "auxiliar",
+                "ota",
+                "uc",
+                "eai"
+            ]
+        },
+        "campos": [],
+        "info_necesaria": [],
+        "activo": true,
+        "datos_minimos": "",
+        "creado_por": "admin",
+        "fecha_creacion": "2026-10-20 19:49:08",
+        "tipologias": [
+            "SST"
+        ]
+    },
+    "EPP_ERRADO": {
+        "titulo": "EPP_ERRADO",
+        "eje": "Personas",
+        "tipo_cls": "Actos Inseguros",
+        "subtipo": "Elementos de Proteccion",
+        "tipo_operacion": [
+            "exportacion",
+            "importacion",
+            "mvcs"
+        ],
+        "tipologia": "SST",
+        "descripcion": "",
+        "requiere_respuesta": true,
+        "requiere_adjunto": true,
+        "involucra_terrestre": true,
+        "involucra_vuelo": false,
+        "involucra_tiempos": false,
+        "notificar_admin": true,
+        "notificar_torre": true,
+        "actores_reportantes": [
+            "AdC",
+            "CECO",
+            "CEDI",
+            "EAI",
+            "OCA",
+            "OSL",
+            "OTT"
+        ],
+        "actores_respondentes": [
+            "AdC",
+            "CECO",
+            "CEDI",
+            "EAI",
+            "OCA",
+            "OSL",
+            "OTT"
+        ],
+        "actores_etiquetables": [
+            "AdC",
+            "CECO",
+            "CEDI",
+            "EAI",
+            "OCA",
+            "OSL",
+            "OTT"
+        ],
+        "causales": [
+            "CASCO DE SEGURIDAD",
+            "GUANTES",
+            "CHALECO REFLECTIVO",
+            "BOTAS",
+            "OTROS"
+        ],
+        "campos_grupo": {
+            "terrestre": [
+                "ott",
+                "placa",
+                "conductor",
+                "auxiliar",
+                "ota",
+                "uc",
+                "eai"
+            ]
+        },
+        "campos": [],
+        "info_necesaria": [],
+        "activo": true,
+        "datos_minimos": "",
+        "creado_por": "admin",
+        "fecha_creacion": "2026-10-20 19:58:03",
+        "tipologias": [
+            "SST"
+        ]
+    },
+    "CAJA_HURTADA": {
+        "titulo": "CAJA_HURTADA",
+        "eje": "Producto",
+        "tipo_cls": "Contenido",
+        "subtipo": "Flor",
+        "tipo_operacion": [
+            "exportacion",
+            "importacion",
+            "mvcs"
+        ],
+        "tipologia": "SEG",
+        "descripcion": "",
+        "requiere_respuesta": true,
+        "requiere_adjunto": true,
+        "involucra_terrestre": true,
+        "involucra_vuelo": true,
+        "involucra_tiempos": true,
+        "notificar_admin": true,
+        "notificar_torre": true,
+        "actores_reportantes": [
+            "CECO",
+            "CEDI",
+            "EAI",
+            "OCA",
+            "OSL",
+            "OTA",
+            "OTT"
+        ],
+        "actores_respondentes": [
+            "CECO",
+            "CEDI",
+            "EAI",
+            "OCA",
+            "OSL",
+            "OTA",
+            "OTT"
+        ],
+        "actores_etiquetables": [
+            "CECO",
+            "CEDI",
+            "EAI",
+            "OCA",
+            "OSL",
+            "OTA",
+            "OTT"
+        ],
+        "causales": [],
+        "campos_grupo": {
+            "terrestre": [
+                "ott",
+                "placa",
+                "conductor",
+                "auxiliar",
+                "cedula",
+                "ota",
+                "uc",
+                "eai"
+            ],
+            "aereo": [
+                "mawb",
+                "hawb",
+                "num_vuelo",
+                "ota_aereo",
+                "piezas_reservadas",
+                "cajas_reservadas",
+                "piezas_recibidas",
+                "cajas_recibidas"
+            ],
+            "tiempos": [
+                "hora_reporte",
+                "hora_est_arribo",
+                "arribo",
+                "llegada",
+                "inicio_cargue",
+                "fin_cargue",
+                "salida",
+                "total_cajas",
+                "cajas_cargadas",
+                "espera_porteria",
+                "tiempo_espera",
+                "pct_cargue",
+                "tpcc"
+            ]
+        },
+        "campos": [],
+        "info_necesaria": [],
+        "activo": true,
+        "datos_minimos": "",
+        "creado_por": "admin",
+        "fecha_creacion": "2026-10-20 20:05:00",
+        "tipologias": [
+            "SEG"
+        ]
+    },
+    "OBJETO_EXTRANO": {
+        "titulo": "OBJETO_EXTRANO",
+        "eje": "Producto",
+        "tipo_cls": "Contenido",
+        "subtipo": "Flor",
+        "tipo_operacion": [
+            "exportacion",
+            "importacion",
+            "mvcs"
+        ],
+        "tipologia": "OPR",
+        "tipologias": [
+            "OPR"
+        ],
+        "descripcion": "",
+        "requiere_respuesta": true,
+        "requiere_adjunto": true,
+        "involucra_terrestre": true,
+        "involucra_vuelo": false,
+        "involucra_tiempos": false,
+        "notificar_admin": true,
+        "notificar_torre": true,
+        "actores_reportantes": [
+            "EAI",
+            "EAI_TERCEROS",
+            "OTT"
+        ],
+        "actores_respondentes": [
+            "EAI",
+            "EAI_TERCEROS",
+            "OTT"
+        ],
+        "actores_etiquetables": [],
+        "causales": [],
+        "campos_grupo": {
+            "terrestre": [
+                "ott",
+                "placa",
+                "conductor",
+                "auxiliar",
+                "ota",
+                "uc",
+                "eai"
+            ]
+        },
+        "campos": [],
+        "info_necesaria": [],
+        "activo": true,
+        "datos_minimos": "",
+        "creado_por": "admin",
+        "fecha_creacion": "2026-10-22 09:41:44"
+    },
+    "CARTON_DANADO": {
+        "titulo": "CARTON_DANADO",
+        "eje": "Producto",
+        "tipo_cls": "Unidad de Empaque",
+        "subtipo": "Carton",
+        "tipo_operacion": [
+            "exportacion",
+            "importacion",
+            "mvcs"
+        ],
+        "tipologia": "OPR",
+        "tipologias": [
+            "OPR"
+        ],
+        "descripcion": "",
+        "requiere_respuesta": true,
+        "requiere_adjunto": true,
+        "involucra_terrestre": true,
+        "involucra_vuelo": true,
+        "involucra_tiempos": true,
+        "notificar_admin": true,
+        "notificar_torre": true,
+        "actores_reportantes": [
+            "CECO",
+            "CEDI",
+            "EAI",
+            "EAI_TERCEROS",
+            "OCA",
+            "OTA",
+            "OTM",
+            "OTT",
+            "OTT_TERCEROS"
+        ],
+        "actores_respondentes": [
+            "CECO",
+            "CEDI",
+            "EAI",
+            "EAI_TERCEROS",
+            "OCA",
+            "OTA",
+            "OTT",
+            "OTT_TERCEROS"
+        ],
+        "actores_etiquetables": [
+            "CECO",
+            "CEDI",
+            "EAI",
+            "EAI_TERCEROS",
+            "OCA",
+            "OTA",
+            "OTT",
+            "OTT_TERCEROS"
+        ],
+        "causales": [
+            "ARMADO_INCORRECTO",
+            "ARRUMADO_INCORRECTO",
+            "FILTRACION_AGUA_FURGON",
+            "FLOR_HUMEDA",
+            "MANIPULACION_INCORRECTA",
+            "PESO _CAJAS",
+            "ZUNCHO_APRETADO",
+            "OTRO"
+        ],
+        "campos_grupo": {
+            "terrestre": [
+                "ott",
+                "placa",
+                "conductor",
+                "auxiliar",
+                "cedula",
+                "ota",
+                "uc",
+                "eai"
+            ],
+            "aereo": [
+                "mawb",
+                "hawb",
+                "num_vuelo",
+                "ota_aereo",
+                "piezas_reservadas",
+                "cajas_reservadas",
+                "piezas_recibidas",
+                "cajas_recibidas"
+            ],
+            "tiempos": [
+                "hora_reporte",
+                "hora_est_arribo",
+                "arribo",
+                "llegada",
+                "inicio_cargue",
+                "fin_cargue",
+                "salida",
+                "total_cajas",
+                "cajas_cargadas",
+                "espera_porteria",
+                "tiempo_espera",
+                "pct_cargue",
+                "tpcc"
+            ]
+        },
+        "campos": [],
+        "info_necesaria": [],
+        "activo": true,
+        "datos_minimos": "",
+        "creado_por": "admin",
+        "fecha_creacion": "2026-10-22 09:41:55"
+    }
+}

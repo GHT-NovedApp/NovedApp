@@ -1,0 +1,45 @@
+/* css/panel_detalle.css — Panel lateral con el detalle de la novedad (tableros) */
+:root { --pd-w: min(560px, 44vw); }
+
+.pd {
+  position:fixed; top:var(--pd-top, 62px); right:0; bottom:0; width:var(--pd-w);
+  display:flex; flex-direction:column; background:#fff; z-index:80;
+  border-left:1px solid var(--border-soft, #e2e8f0); box-shadow:-10px 0 28px rgba(26,61,24,.10);
+  animation:pd-in .24s cubic-bezier(.16,1,.3,1);
+}
+.pd[hidden] { display:none; }
+@keyframes pd-in { from { transform:translateX(28px); opacity:0; } to { transform:none; opacity:1; } }
+
+.pd__bar { display:flex; align-items:center; gap:.6rem; padding:.5rem .75rem; border-bottom:1px solid var(--border-soft, #e2e8f0); background:var(--surface-tint, #f4f8f3); flex-wrap:wrap; }
+.pd__btn { display:inline-flex; align-items:center; gap:.4rem; min-height:36px; padding:.3rem .7rem; font:inherit; font-size:.82rem; font-weight:600; color:var(--text-main); background:#fff; border:1px solid var(--border-soft, #e2e8f0); border-radius:8px; cursor:pointer; }
+.pd__btn:hover:not(:disabled) { border-color:var(--secondary-color); background:#eef7ee; }
+.pd__btn:disabled { opacity:.45; cursor:not-allowed; }
+.pd__btn:focus-visible, .pd__link:focus-visible { outline:2px solid var(--secondary-dark); outline-offset:2px; }
+.pd__btn--icon { padding:.3rem .45rem; }
+.pd__nav { display:flex; align-items:center; gap:.3rem; margin-left:auto; }
+.pd__pos { min-width:5.2em; text-align:center; font-size:.78rem; color:var(--text-muted); font-variant-numeric:tabular-nums; }
+.pd__link { font-size:.78rem; color:var(--primary-color); text-decoration:underline; text-underline-offset:2px; }
+.pd__lbl-mobile { display:none; }
+
+.pd__body { flex:1; overflow-y:auto; overscroll-behavior:contain; padding:1rem; outline:none; }
+.pd__body .card { box-shadow:none; border:1px solid var(--border-soft, #e2e8f0); margin-bottom:.9rem; padding:1rem; }
+.pd__body .dn-x1 { margin-bottom:.8rem; justify-content:flex-end; }
+.pd__body .dn-x1:empty { display:none; }
+.pd__estado { padding:2rem 1rem; text-align:center; color:var(--text-muted); font-size:.9rem; }
+.pd__enviando { opacity:.6; pointer-events:none; }
+
+/* Pantalla dividida: la tabla queda a la izquierda, con su filtro, página y scroll */
+body.pd-abierto main.container { padding-right:calc(var(--pd-w) + 1.5rem); }
+tbody tr.pd-activa td { background:var(--surface-tint, #eef5ec); }
+
+/* Pantallas angostas: el panel ocupa toda la pantalla y se cierra con «Volver a la lista» */
+@media (max-width:1099px) {
+  :root { --pd-w:100vw; }
+  .pd { top:0; width:100%; z-index:200; border-left:0; box-shadow:none; }
+  body.pd-abierto { overflow:hidden; }
+  body.pd-abierto main.container { padding-right:1rem; }
+  .pd__lbl-desktop { display:none; }
+  .pd__lbl-mobile { display:inline; }
+  .pd__link { display:none; }
+}
+@media (prefers-reduced-motion:reduce) { .pd { animation:none; } }

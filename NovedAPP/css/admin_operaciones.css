@@ -1,0 +1,59 @@
+/* css/admin_operaciones.css — Parametrización · Tipos de Operación */
+.op-intro { font-size:.86rem; color:var(--text-muted); margin-bottom:1.1rem; max-width:70ch; }
+.op-intro strong { color:var(--text-main); }
+
+/* Formulario */
+.op-form { border:1px solid #e2e8f0; border-radius:10px; padding:1rem 1.1rem 1.1rem; margin-bottom:1.5rem; background:#fff; }
+.op-form__title { font-size:.95rem; font-weight:700; color:var(--primary-color); margin:0 0 .85rem; padding:0; border:0; }
+.op-form__grid { display:grid; grid-template-columns:140px 1fr 160px; gap:.85rem; }
+.op-field { display:flex; flex-direction:column; gap:.3rem; min-width:0; }
+.op-field--full { grid-column:1 / -1; }
+.op-field label { font-size:.75rem; font-weight:700; color:var(--text-muted); }
+.op-field .req { color:var(--danger); }
+.op-opt { font-weight:400; }
+.op-field input, .op-field select, .op-field textarea {
+  min-height:40px; padding:.45rem .65rem; font:inherit; font-size:.88rem; color:var(--text-main);
+  border:1px solid #e2e8f0; border-radius:6px; background:#fff; width:100%;
+}
+.op-field textarea { resize:vertical; min-height:64px; }
+.op-field input:focus, .op-field select:focus, .op-field textarea:focus { border-color:var(--secondary-dark); }
+.op-upper { text-transform:uppercase; font-family:ui-monospace,Consolas,monospace; letter-spacing:.04em; }
+.op-form__actions { display:flex; gap:.5rem; margin-top:.9rem; flex-wrap:wrap; }
+
+/* Tabla */
+.op-table { width:100%; border-collapse:collapse; font-size:.88rem; }
+.op-table thead th { text-align:left; font-size:.72rem; font-weight:700; text-transform:uppercase; letter-spacing:.05em; color:var(--text-muted); padding:.55rem .85rem; border-bottom:1px solid #e2e8f0; white-space:nowrap; }
+.op-table tbody td { padding:.75rem .85rem; border-bottom:1px solid #e2e8f0; vertical-align:middle; }
+.op-table tbody tr:hover td { background:var(--surface-tint); }
+.op-row--inactivo .op-name { color:var(--text-muted); }
+.op-code { font-family:ui-monospace,Consolas,monospace; font-size:.82rem; font-weight:700; color:var(--primary-color); background:var(--surface-tint); border:1px solid #e2e8f0; border-radius:5px; padding:.1rem .45rem; }
+.op-name { font-weight:600; display:block; }
+.op-desc { display:block; font-size:.78rem; color:var(--text-muted); margin-top:.1rem; max-width:52ch; }
+
+/* Badge de estado */
+.op-badge { display:inline-flex; align-items:center; gap:.4rem; font-size:.7rem; font-weight:700; letter-spacing:.05em; text-transform:uppercase; padding:.15rem .65rem; border-radius:99px; border:1px solid transparent; }
+.op-badge::before { content:""; width:.5rem; height:.5rem; border-radius:50%; background:currentColor; }
+.op-badge--activo   { background:var(--st-gestion-bg); color:var(--st-gestion-fg); border-color:#bcdcbc; }
+.op-badge--inactivo { background:#f1f3f5; color:#4b5563; border-color:#e2e8f0; }
+
+/* Acciones de fila */
+.op-actions { display:flex; gap:.4rem; justify-content:flex-end; flex-wrap:wrap; }
+.op-actions form { display:inline; }
+.op-btn { display:inline-flex; align-items:center; min-height:36px; padding:.3rem .8rem; font:inherit; font-size:.8rem; font-weight:600; color:var(--primary-color); background:#fff; border:1px solid #e2e8f0; border-radius:6px; cursor:pointer; text-decoration:none; transition:border-color .15s, background .15s; }
+.op-btn:hover { border-color:var(--secondary-color); background:#eef7ee; }
+.op-btn--warn { color:var(--st-abierta-fg); }
+.op-btn--danger { color:var(--danger); margin-left:.5rem; }
+.op-btn--danger:hover { border-color:var(--danger); background:var(--danger-bg); }
+
+@media (max-width: 700px) {
+  .op-form__grid { grid-template-columns:1fr; }
+  .op-actions { justify-content:flex-start; }
+  .op-btn--danger { margin-left:0; }
+}
+
+/* Intro + botón "Nuevo" en la misma fila; el formulario vive en un diálogo */
+.op-head { display:flex; align-items:flex-start; justify-content:space-between; gap:1rem; flex-wrap:wrap; margin-bottom:1rem; }
+.op-head .op-intro { margin:0; flex:1; min-width:240px; }
+.pz-dialog .op-form__grid { margin:0; }
+
+@media (max-width: 700px) { .op-head .btn { width:100%; } }

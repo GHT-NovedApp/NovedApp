@@ -1,0 +1,738 @@
+{
+    "eai_manuelita": [],
+    "eai_manuelita2": [
+        {
+            "novedad_id": "NOV-20260914-001",
+            "tipo_novedad": "ARRIBO_DEMORA",
+            "organizacion": "GHT Comercio Exterior",
+            "fecha": "2026-10-06 11:34:55",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20260915-003",
+            "tipo_novedad": "CONTEO_INCORRECTO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "fecha": "2026-10-06 11:35:01",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20260924-004",
+            "tipo_novedad": "BITACORA_TEMPORADA",
+            "organizacion": "GHT Proyectos Logisticos",
+            "fecha": "2026-10-06 11:35:05",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20260928-005",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "fecha": "2026-10-06 11:35:12",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261006-007",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:35:21",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261006-008",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:35:28",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261006-010",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "Finca Manuelita",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:35:36",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-003",
+            "tipo_novedad": "EPP_AUSENTE",
+            "organizacion": "Finca Manuelita",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:34:29",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261006-006",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:35:16",
+            "leida": false,
+            "ultimo_mensaje": true
+        }
+    ],
+    "cedi_bg": [
+        {
+            "novedad_id": "NOV-20260914-001",
+            "tipo_novedad": "ARRIBO_DEMORA",
+            "organizacion": "GHT Comercio Exterior",
+            "fecha": "2026-10-06 11:34:55",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20260928-005",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "fecha": "2026-10-06 11:35:12",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261006-007",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:35:21",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261006-008",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:35:28",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261006-006",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:35:16",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-011",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "TC1 GIRAG",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:36:02",
+            "leida": false,
+            "ultimo_mensaje": true
+        }
+    ],
+    "cedi_bg2": [
+        {
+            "novedad_id": "NOV-20260914-001",
+            "tipo_novedad": "ARRIBO_DEMORA",
+            "organizacion": "GHT Comercio Exterior",
+            "fecha": "2026-10-06 11:34:55",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20260928-005",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "fecha": "2026-10-06 11:35:12",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261006-007",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:35:21",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261006-008",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:35:28",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-006",
+            "tipo_novedad": "CONDUCTORES_Y_VEHICULOS_ERRADO",
+            "organizacion": "BG-FD",
+            "tipologia": "SEG",
+            "fecha": "2026-10-06 11:34:41",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261006-006",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:35:16",
+            "leida": false,
+            "ultimo_mensaje": true
+        }
+    ],
+    "gestor_oca": [
+        {
+            "novedad_id": "NOV-20260915-003",
+            "tipo_novedad": "CONTEO_INCORRECTO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "fecha": "2026-10-06 11:35:01",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20260924-004",
+            "tipo_novedad": "BITACORA_TEMPORADA",
+            "organizacion": "GHT Proyectos Logisticos",
+            "fecha": "2026-10-06 11:35:05",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20260928-005",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "fecha": "2026-10-06 11:35:12",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261006-007",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:35:21",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261006-008",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:35:28",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261006-011",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "Finca Manuelita",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:35:41",
+            "leida": true,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261006-012",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "Finca Manuelita",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:36:06",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261006-006",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:35:16",
+            "leida": false,
+            "ultimo_mensaje": true
+        }
+    ],
+    "adc_bog": [
+        {
+            "novedad_id": "NOV-20260924-004",
+            "tipo_novedad": "BITACORA_TEMPORADA",
+            "organizacion": "GHT Proyectos Logisticos",
+            "fecha": "2026-10-06 11:35:05",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20260928-005",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "fecha": "2026-10-06 11:35:12",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261006-007",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:35:21",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261006-008",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:35:28",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261006-013",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "Finca Manuelita",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:35:46",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261006-006",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:35:16",
+            "leida": false,
+            "ultimo_mensaje": true
+        }
+    ],
+    "adc_mde": [
+        {
+            "novedad_id": "NOV-20260924-004",
+            "tipo_novedad": "BITACORA_TEMPORADA",
+            "organizacion": "GHT Proyectos Logisticos",
+            "fecha": "2026-10-06 11:35:05",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20260928-005",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "fecha": "2026-10-06 11:35:12",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261006-007",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:35:21",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261006-008",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:35:28",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261006-006",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:35:16",
+            "leida": false,
+            "ultimo_mensaje": true
+        }
+    ],
+    "gestor_osl": [
+        {
+            "novedad_id": "NOV-20260928-005",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "fecha": "2026-10-06 11:35:12",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261006-007",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:35:21",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261006-008",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:35:28",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261006-006",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:35:16",
+            "leida": false,
+            "ultimo_mensaje": true
+        }
+    ],
+    "admin": [
+        {
+            "novedad_id": "NOV-20261013-020",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-13 12:26:32",
+            "leida": true
+        },
+        {
+            "novedad_id": "NOV-20261013-021",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-13 12:45:50",
+            "leida": true
+        },
+        {
+            "novedad_id": "NOV-20261027-022",
+            "tipo_novedad": "CONDICIONES_INADECUADAS_PERSONAS",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-27 11:08:39",
+            "leida": true
+        },
+        {
+            "novedad_id": "NOV-20261027-023",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-27 14:13:48",
+            "leida": true,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261027-024",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "Finca Manuelita",
+            "tipologia": "SST",
+            "fecha": "2026-10-27 14:42:51",
+            "leida": true,
+            "ultimo_mensaje": true,
+            "evento": "resuelta"
+        }
+    ],
+    "torre_control": [
+        {
+            "novedad_id": "NOV-20261006-012",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "Finca Manuelita",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:36:06",
+            "leida": true,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261006-013",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "Finca Manuelita",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:35:46",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-003",
+            "tipo_novedad": "EPP_AUSENTE",
+            "organizacion": "Finca Manuelita",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:34:29",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-006",
+            "tipo_novedad": "CONDUCTORES_Y_VEHICULOS_ERRADO",
+            "organizacion": "BG-FD",
+            "tipologia": "SEG",
+            "fecha": "2026-10-06 11:34:41",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-009",
+            "tipo_novedad": "CAJA_HURTADA",
+            "organizacion": "Finca Manuelita",
+            "tipologia": "SEG",
+            "fecha": "2026-10-06 11:34:47",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20260914-001",
+            "tipo_novedad": "ARRIBO_DEMORA",
+            "organizacion": "GHT Comercio Exterior",
+            "tipologia": "OPR",
+            "fecha": "2026-10-06 11:34:55",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20260915-003",
+            "tipo_novedad": "CONTEO_INCORRECTO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "OPR",
+            "fecha": "2026-10-06 11:35:01",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20260924-004",
+            "tipo_novedad": "BITACORA_TEMPORADA",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "OPR",
+            "fecha": "2026-10-06 11:35:05",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20260928-005",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:35:12",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261006-006",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:35:16",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261006-007",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:35:21",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261006-008",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:35:28",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261006-009",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:35:32",
+            "leida": true,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261006-010",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "Finca Manuelita",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:35:36",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261006-011",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "Finca Manuelita",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:35:41",
+            "leida": true,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-005",
+            "tipo_novedad": "CARTON_DANADO",
+            "organizacion": "Finca Manuelita",
+            "tipologia": "OPR",
+            "fecha": "2026-10-06 11:35:57",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-011",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "TC1 GIRAG",
+            "tipologia": "SST",
+            "fecha": "2026-10-06 11:36:02",
+            "leida": true,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261013-019",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-13 11:49:56",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261013-020",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-13 12:26:32",
+            "leida": false
+        },
+        {
+            "novedad_id": "NOV-20261013-021",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-13 12:45:50",
+            "leida": true
+        },
+        {
+            "novedad_id": "NOV-20261027-022",
+            "tipo_novedad": "CONDICIONES_INADECUADAS_PERSONAS",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-27 11:18:32",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261027-023",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-27 14:13:48",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261027-024",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "Finca Manuelita",
+            "tipologia": "SST",
+            "fecha": "2026-10-27 14:42:51",
+            "leida": false,
+            "ultimo_mensaje": true,
+            "evento": "resuelta"
+        }
+    ],
+    "reportante_eai": [
+        {
+            "novedad_id": "NOV-20261013-019",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-13 11:49:56",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261013-021",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-13 12:45:50",
+            "leida": true
+        },
+        {
+            "novedad_id": "NOV-20261027-022",
+            "tipo_novedad": "CONDICIONES_INADECUADAS_PERSONAS",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-27 11:18:32",
+            "leida": false,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261027-024",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "Finca Manuelita",
+            "tipologia": "SST",
+            "fecha": "2026-10-27 14:42:51",
+            "leida": true,
+            "ultimo_mensaje": true,
+            "evento": "resuelta"
+        }
+    ],
+    "gestor_eai": [
+        {
+            "novedad_id": "NOV-20261013-020",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-13 12:26:32",
+            "leida": false
+        },
+        {
+            "novedad_id": "NOV-20261027-023",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-27 14:13:17",
+            "leida": true,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261027-024",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "Finca Manuelita",
+            "tipologia": "SST",
+            "fecha": "2026-10-27 14:42:38",
+            "leida": true,
+            "ultimo_mensaje": true,
+            "evento": "respuesta"
+        }
+    ],
+    "gestor_ott": [
+        {
+            "novedad_id": "NOV-20261027-023",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "GHT Proyectos Logisticos",
+            "tipologia": "SST",
+            "fecha": "2026-10-27 14:13:48",
+            "leida": true,
+            "ultimo_mensaje": true
+        },
+        {
+            "novedad_id": "NOV-20261027-024",
+            "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+            "organizacion": "Finca Manuelita",
+            "tipologia": "SST",
+            "fecha": "2026-10-27 14:42:51",
+            "leida": true,
+            "ultimo_mensaje": true,
+            "evento": "resuelta"
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+/* css/dashboard_roles.css — Dashboards de gestor, reportante y torre de control */
+/* ── Estilos extraídos de atributos style (antes en línea) ── */
+.dr-x1 {
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  margin-bottom:.85rem;
+}
+.dr-x2 {
+  margin-left:auto;
+}
+.dr-x3 {
+  display:flex;
+  gap:.6rem;
+  flex-wrap:wrap;
+  align-items:center;
+  padding:.45rem .9rem;
+  background:#f8fafc;
+  border:1px solid #edf0eb;
+  border-radius:7px;
+  margin-bottom:.5rem;
+}
+.dr-x4 {
+  font-size:.72rem;
+  font-weight:700;
+  color:var(--text-muted);
+  text-transform:uppercase;
+  letter-spacing:.04em;
+  margin-right:.25rem;
+}
+.dr-x5 {
+  display:flex;
+  align-items:center;
+  gap:.3rem;
+  font-size:.78rem;
+  font-weight:500;
+  cursor:pointer;
+}
+.dr-x6 {
+  color:var(--secondary-color);
+}
+.dr-x7 {
+  font-size:.65rem;
+  margin-left:4px;
+}
+.dr-x8 {
+  font-size:.82rem;
+}
+.dr-x9 {
+  font-size:.78rem;
+  color:var(--text-muted);
+}
+.dr-x10 {
+  font-size:.75rem;
+  color:var(--text-muted);
+}
+.dr-x11 {
+  color:var(--secondary-color);
+  font-weight:600;
+}
+.dr-x12 {
+  font-size:.78rem;
+  color:var(--text-muted);
+  white-space:nowrap;
+}
+.dr-x13 {
+  font-size:.65rem;
+  display:inline-flex;
+  margin-top:2px;
+}
+.dr-x14 {
+  font-size:.8rem;
+  color:var(--text-muted);
+}
+.dr-x15 {
+  font-size:.65rem;
+  background:var(--primary-color);
+  color:#fff;
+  padding:1px 5px;
+  border-radius:99px;
+  margin-left:.25rem;
+}
+.dr-x16 {
+  display:flex;
+  gap:.4rem;
+  margin-left:auto;
+}
+.dr-x17 {
+  min-width:220px;
+}
+.dr-x18 {
+  display:flex;
+  gap:.6rem;
+  flex-wrap:wrap;
+  margin-top:.25rem;
+}
+.dr-x19 {
+  justify-content:flex-end;
+}
+.dr-x20 {
+  font-size:.82rem;
+  max-width:180px;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  white-space:nowrap;
+}
+
+.row-nueva td { background:#fff8e6; }
+.row-nueva:hover td { background:#fff1cc; }

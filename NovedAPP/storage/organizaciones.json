@@ -1,0 +1,7331 @@
+[
+    {
+        "id": 1,
+        "tipo_actor": "7K",
+        "nombre": "7000 LOGISTICS",
+        "ubicacion": "Miami",
+        "activo": true
+    },
+    {
+        "id": 2,
+        "tipo_actor": "AdA",
+        "nombre": "MOVE CARGO SEDE BOGOTA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 3,
+        "tipo_actor": "AdA",
+        "nombre": "MOVE CARGO SEDE MEDELLIN",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 4,
+        "tipo_actor": "AdC",
+        "nombre": "ALPHABROKERS",
+        "ubicacion": "Miami",
+        "activo": true
+    },
+    {
+        "id": 5,
+        "tipo_actor": "AdC",
+        "nombre": "ANS-AIRSEANTRANS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 6,
+        "tipo_actor": "AdC",
+        "nombre": "CGX-CARGEX",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 7,
+        "tipo_actor": "AdC",
+        "nombre": "CHA-CHAMPION",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 8,
+        "tipo_actor": "AdC",
+        "nombre": "CARGO MASTER",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 9,
+        "tipo_actor": "AdC",
+        "nombre": "EXPORTACIONES INTERNACIONALES DE CARGA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 10,
+        "tipo_actor": "AdC",
+        "nombre": "EXPORTACIONES INTERNACIONALES DE CARGA",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 11,
+        "tipo_actor": "AdC",
+        "nombre": "EXPORTACIONES INTERNACIONALES DE CARGA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 12,
+        "tipo_actor": "AdC",
+        "nombre": "IAN-INTERANDINA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 13,
+        "tipo_actor": "AdC",
+        "nombre": "KHN-KUEHN+NAGEL",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 14,
+        "tipo_actor": "AdC",
+        "nombre": "LAG-LOGIZTIK ALLI",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 15,
+        "tipo_actor": "AdC",
+        "nombre": "MAP-MAP CARGO",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 16,
+        "tipo_actor": "AdC",
+        "nombre": "MFI-MASTER FREIGH",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 17,
+        "tipo_actor": "AdC",
+        "nombre": "PAN-PANALPINA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 18,
+        "tipo_actor": "AdC",
+        "nombre": "PFC-PREFERENCE CA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 19,
+        "tipo_actor": "AdC",
+        "nombre": "REA-REAL CARGA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 20,
+        "tipo_actor": "AdC",
+        "nombre": "TFL-TRANSFLORA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 21,
+        "tipo_actor": "BDS",
+        "nombre": "BREAKDOWN SERVICES",
+        "ubicacion": "Miami",
+        "activo": true
+    },
+    {
+        "id": 22,
+        "tipo_actor": "BDS",
+        "nombre": "BREAKDOWN SERVICES",
+        "ubicacion": "Miami",
+        "activo": true
+    },
+    {
+        "id": 23,
+        "tipo_actor": "BDS",
+        "nombre": "BREAKDOWN SERVICES",
+        "ubicacion": "Miami",
+        "activo": true
+    },
+    {
+        "id": 24,
+        "tipo_actor": "CECO",
+        "nombre": "CENTRO DE CONSOLIDACIÓN",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 25,
+        "tipo_actor": "CEDI",
+        "nombre": "BENCHMARCK GROWERS - CEDI FD",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 26,
+        "tipo_actor": "CEDI",
+        "nombre": "BENCHMARCK GROWERS - CEDI TOCANCIPA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 27,
+        "tipo_actor": "CEDI",
+        "nombre": "FLORES LAS ACACIAS SAS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 28,
+        "tipo_actor": "CEDI",
+        "nombre": "FINCA SANTA CRUZ",
+        "ubicacion": "Occidente",
+        "activo": true
+    },
+    {
+        "id": 29,
+        "tipo_actor": "EAI",
+        "nombre": "FINCA ALEJANDRA",
+        "ubicacion": "Occidente",
+        "activo": true
+    },
+    {
+        "id": 30,
+        "tipo_actor": "EAI",
+        "nombre": "FLORES EL ALJIBE SAS",
+        "ubicacion": "Norte",
+        "activo": true
+    },
+    {
+        "id": 31,
+        "tipo_actor": "EAI",
+        "nombre": "FLORES CANELON SAS",
+        "ubicacion": "Centro",
+        "activo": true
+    },
+    {
+        "id": 32,
+        "tipo_actor": "EAI",
+        "nombre": "FOLLAJES DE CAMPOALEGRE SAS",
+        "ubicacion": "Centro",
+        "activo": true
+    },
+    {
+        "id": 33,
+        "tipo_actor": "EAI",
+        "nombre": "JARDINES DE CHIA SAS",
+        "ubicacion": "Centro",
+        "activo": true
+    },
+    {
+        "id": 34,
+        "tipo_actor": "EAI",
+        "nombre": "FLORES EL CIPRES SAS",
+        "ubicacion": "Norte",
+        "activo": true
+    },
+    {
+        "id": 35,
+        "tipo_actor": "EAI",
+        "nombre": "FLORES DEL CACIQUE SAS",
+        "ubicacion": "Centro",
+        "activo": true
+    },
+    {
+        "id": 36,
+        "tipo_actor": "EAI",
+        "nombre": "FLORES DE LA MONTANA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 37,
+        "tipo_actor": "EAI",
+        "nombre": "JARDINES DEL ROSAL SAS",
+        "ubicacion": "Norte",
+        "activo": true
+    },
+    {
+        "id": 38,
+        "tipo_actor": "EAI",
+        "nombre": "FLORES ATLAS SAS",
+        "ubicacion": "Centro",
+        "activo": true
+    },
+    {
+        "id": 39,
+        "tipo_actor": "EAI",
+        "nombre": "JARDINES DE FREDONIA SAS",
+        "ubicacion": "Centro",
+        "activo": true
+    },
+    {
+        "id": 40,
+        "tipo_actor": "EAI",
+        "nombre": "FINCA FLOR CARIBE",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 41,
+        "tipo_actor": "EAI",
+        "nombre": "CULTIVOS GENERALES SAS",
+        "ubicacion": "Centro",
+        "activo": true
+    },
+    {
+        "id": 42,
+        "tipo_actor": "EAI",
+        "nombre": "FLORES DE BOJACA SAS",
+        "ubicacion": "Occidente",
+        "activo": true
+    },
+    {
+        "id": 43,
+        "tipo_actor": "EAI",
+        "nombre": "FINCA SANTA MONICA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 44,
+        "tipo_actor": "EAI",
+        "nombre": "FLORVAL SAS",
+        "ubicacion": "Norte",
+        "activo": true
+    },
+    {
+        "id": 45,
+        "tipo_actor": "EAI",
+        "nombre": "CHARRASCAL",
+        "ubicacion": "Centro",
+        "activo": true
+    },
+    {
+        "id": 46,
+        "tipo_actor": "EAI",
+        "nombre": "HORTENSIAS DEL CAMPO",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 47,
+        "tipo_actor": "EAI",
+        "nombre": "FLORES DEL HATO SAS",
+        "ubicacion": "Occidente",
+        "activo": true
+    },
+    {
+        "id": 48,
+        "tipo_actor": "EAI",
+        "nombre": "ISABELITA 4",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 49,
+        "tipo_actor": "EAI",
+        "nombre": "FLORES ISABELITA",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 50,
+        "tipo_actor": "EAI",
+        "nombre": "ISABELITA 2",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 51,
+        "tipo_actor": "EAI",
+        "nombre": "FLORES JAYVANA SAS",
+        "ubicacion": "Centro",
+        "activo": true
+    },
+    {
+        "id": 52,
+        "tipo_actor": "EAI",
+        "nombre": "CI SAN JOSE FARMS",
+        "ubicacion": "Centro",
+        "activo": true
+    },
+    {
+        "id": 53,
+        "tipo_actor": "EAI",
+        "nombre": "JARDINES DE SAN NICOLAS SAS",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 54,
+        "tipo_actor": "EAI",
+        "nombre": "JARDINES DEL PORTAL SAS",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 55,
+        "tipo_actor": "EAI",
+        "nombre": "JARDINES DEL SOL SAS",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 56,
+        "tipo_actor": "EAI",
+        "nombre": "JARDINES DE LA CUESTA SAS",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 57,
+        "tipo_actor": "EAI",
+        "nombre": "FLORES LAS ACACIAS SAS",
+        "ubicacion": "Occidente",
+        "activo": true
+    },
+    {
+        "id": 58,
+        "tipo_actor": "EAI",
+        "nombre": "FLORES LA  MANA SAS",
+        "ubicacion": "Norte",
+        "activo": true
+    },
+    {
+        "id": 59,
+        "tipo_actor": "EAI",
+        "nombre": "LA NIÑA DE MIS OJOS",
+        "ubicacion": "Norte",
+        "activo": true
+    },
+    {
+        "id": 60,
+        "tipo_actor": "EAI",
+        "nombre": "MARIA BONITA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 61,
+        "tipo_actor": "EAI",
+        "nombre": "MG CONSULTORES SAS",
+        "ubicacion": "Centro",
+        "activo": true
+    },
+    {
+        "id": 62,
+        "tipo_actor": "EAI",
+        "nombre": "MELODY FLOWERS SAS",
+        "ubicacion": "Occidente",
+        "activo": true
+    },
+    {
+        "id": 63,
+        "tipo_actor": "EAI",
+        "nombre": "FINCA MANUELA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 64,
+        "tipo_actor": "EAI",
+        "nombre": "MOUNTAIN ROSES SAS",
+        "ubicacion": "Occidente",
+        "activo": true
+    },
+    {
+        "id": 65,
+        "tipo_actor": "EAI",
+        "nombre": "FLORES ELTRIGAL SAS -MANANTIALES-",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 66,
+        "tipo_actor": "EAI",
+        "nombre": "HACIENDA SAN GREGORIO",
+        "ubicacion": "Centro",
+        "activo": true
+    },
+    {
+        "id": 67,
+        "tipo_actor": "EAI",
+        "nombre": "FINCA OLAS",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 68,
+        "tipo_actor": "EAI",
+        "nombre": "CULTIVOS LA PLANICIE",
+        "ubicacion": "Norte",
+        "activo": true
+    },
+    {
+        "id": 69,
+        "tipo_actor": "EAI",
+        "nombre": "QUALITY FLOWERS SAS",
+        "ubicacion": "Norte",
+        "activo": true
+    },
+    {
+        "id": 70,
+        "tipo_actor": "EAI",
+        "nombre": "QFC SAS",
+        "ubicacion": "Norte",
+        "activo": true
+    },
+    {
+        "id": 71,
+        "tipo_actor": "EAI",
+        "nombre": "CULTIVOS CASABLANCA SAS",
+        "ubicacion": "Centro",
+        "activo": true
+    },
+    {
+        "id": 72,
+        "tipo_actor": "EAI",
+        "nombre": "AGROINDUSTRIA DEL RIOFRIO SAS",
+        "ubicacion": "Centro",
+        "activo": true
+    },
+    {
+        "id": 73,
+        "tipo_actor": "EAI",
+        "nombre": "PARDO CARRIZOSA NAVAS",
+        "ubicacion": "Occidente",
+        "activo": true
+    },
+    {
+        "id": 74,
+        "tipo_actor": "EAI",
+        "nombre": "SCARLETT'S FLOWERS SAS",
+        "ubicacion": "Centro",
+        "activo": true
+    },
+    {
+        "id": 75,
+        "tipo_actor": "EAI",
+        "nombre": "SAN MARTIN (AZAMA)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 76,
+        "tipo_actor": "EAI",
+        "nombre": "SNF SAS (SANTANA)",
+        "ubicacion": "Occidente",
+        "activo": true
+    },
+    {
+        "id": 77,
+        "tipo_actor": "EAI",
+        "nombre": "FINCA SANTA CRUZ",
+        "ubicacion": "Occidente",
+        "activo": true
+    },
+    {
+        "id": 78,
+        "tipo_actor": "EAI",
+        "nombre": "TORREMOLINOS",
+        "ubicacion": "Norte",
+        "activo": true
+    },
+    {
+        "id": 79,
+        "tipo_actor": "EAI",
+        "nombre": "FLORES EL  TANDIL SAS",
+        "ubicacion": "Norte",
+        "activo": true
+    },
+    {
+        "id": 80,
+        "tipo_actor": "EAI",
+        "nombre": "FLORES UBATE SAS",
+        "ubicacion": "Norte",
+        "activo": true
+    },
+    {
+        "id": 81,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "AA-AAASACORPORATION S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 82,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "AAC-ALLEGROFARMS ALLFLOWERS CIA. LDTA.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 83,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "AAG-AGRICOLA TABACUNDO AGRITAB CIA. LTDA.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 84,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "AAM-ALBA ALBAMOCHO MARTHA CECILIA (MUNDIROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 85,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "AAN-AMPAM ANTUN NUSE MARIA (SHERMIL FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 86,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "AC- AGRICOLA LA CAROLINA S A S",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 87,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "ACM-AYALA CACUANGO MARIO JAVIER (AYALA FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 88,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "AD-ANDALUCIA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 89,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "ADR-AGRICOLA SAN ANDRES DEL CHAUPI S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 90,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "ADV-AGRIVALDANI S.A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 91,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "AEP-ASOCIACION EN CUENTAS EN PARTICIPACION (EPIC FARM)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 92,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "AER-RIOROSES CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 93,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "AEX-AGROCOEX S A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 94,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "AF-ALEXANDRA FARMS SAS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 95,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "AFF-ARCAFLOWER LIFE SAS",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 96,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "AFF-ARCAFLOWER LIFE SAS",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 97,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "AGROGREEN SA",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 98,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "AG-C I  AGRICOLA CARDENAL S A S",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 99,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "AGR-AGRINAG S.A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 100,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "AGT-AGROTERRANORTE S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 101,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "AHS-AGROIMPORT HTP SOCIEDAD CIVIL COMERCIAL (SKY VALLEY)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 102,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "AJF-AJ FLOWERS",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 103,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "AKF-AKARANA FARMS",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 104,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "AKF-IPEP CORPORACION S.A. (AKARANA FARMS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 105,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "ALL-ALTAMIRANO CANDO ALEXANDRA RAQUEL (ALL U ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 106,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "ALMA ROSES",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 107,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "ALM-CAMPAÑA ALMAGRO JORGE ENRIQUE (JC FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 108,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "AMM-ACHINA MONTA MAYRA ALEXANDRA (FLORES DEL MONTE)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 109,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "AMZ-AMAZINGROSES CIA.LTDA.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 110,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "AND-ANDEANROSES CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 111,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "ANR-FLORANROSA S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 112,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "AO-CÓNDOR ANDINO SAS",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 113,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "APF-AGROPRIM FARMS CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 114,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "APG-ASOCIACION DE PRODUCCION AGRICOLA PRODUCTORES PEDRO MONCAYO (ASOPROAGRIPEDRO)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 115,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "APP-ASOCIACIÓN DE PEQUEÑOS PRODUCTORES Y EXPORTADORES DE FLORES PACHA FLOWERS FLORES DE LA TIERRA ASPROPAFLO",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 116,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "ARC-ARCOFLOR FLORES ARCOIRIS S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 117,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "ARD-ARBUSTA CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 118,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "ARS-ANDREAROSES CIA. LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 119,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "ARY-COBACANGO CATUCUAGO MARIA SUSANA (MARYBELLA GARDENS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 120,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "ASA-AGROSERVICIOS ANDINOS CAMACHO S A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 121,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "AS-AGROSANALFONSO S A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 122,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "ASF-AGRICOLA SANTINO-FLOWERS CIA LTDA (SANTINO FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 123,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "ASG-CUALCHI GUASGUA CARLOS MANUEL (MAYERLY C FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 124,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "ASP-ALSAPIAN S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 125,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "ASS-EXPORT ROSES DEL ECUADOR EXPROSES S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 126,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "AU-AURORA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 127,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "AY-AYURA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 128,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "AY-CAYAMBE",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 129,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "AYD-ALANUCA YANEZ DIANA MARIBEL",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 130,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "AZ-ALTAROSA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 131,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "BAB-FLORES DE TUMBABIRO SA FLORETUM",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 132,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "BLACKRIVER FLOWERS SAS",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 133,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "BFS-BLACKRIVER",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 134,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "BFS-BOUTIQUE FLOWER'S S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 135,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "BM-BOUQUETS MIXTOS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 136,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "BPP-BUSTAMANTE PINCAY PABLO CESAR (KEYLIROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 137,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "BTA-BOLAÑOS TORRES ANA ROSARIO (HIGH GARDEN)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 138,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "BUM-BRAVO UZHCA MARIA ESTHER",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 139,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "BUENAVISTA FLORWER SAS",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 140,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "BV-BUENAVISTA FLOWERS SAS (RIONEGRO)",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 141,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "BYF-BYFAITH PRODUCTORES & EMPACADORES AGRÍCOLAS Y ALIMENTICIOS",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 142,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "C4-C I  FLORES COLON LTDA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 143,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CAA-YANCHATIPAN AÑARUMBA LUIS ARMANDO",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 144,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CAC-CACHIPUENDO CACHIPUENDO JOSE ORLANDO (CA&RU ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 145,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CAE-CUASCOTA ANDRANGO ENMA PIEDAD (FLORÍSTICA ECUADOR)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 146,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CAJ-CUEVA ALBUJA JEANN PABLO (SWEET&FRESH)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 147,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CAL-LITA MONTEROS CARLOS ARTURO (LITA FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 148,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CAM-CAMALLE CUMBAL LUIS MEDARDO (WENDY FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 149,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CAV-CANANVALLEY FLOWERS S A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 150,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CB-COLIBRI FLOWERS S A",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 151,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CCC-CUZCO CUALCHI CESAR FABRIZIO (FAIRIS GARDEN)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 152,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CCD-CACUANGO CACUANGO MARIA DIOSELINA (DAYANA FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 153,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CCE-CACUANGO CABASCANGO JOSÉ ERNESTO (ECUAMERICA ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 154,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CCH-CUALCHI CACHIPUENDO CESAR MAURICIO (CONTINENTAL FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 155,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CCJ-CALPA CALPA JOSE FELIX (ETERNAL ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 156,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CCM-CUASCOTA COLLAGUAZO MARIA DOLORES (LOLITA FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 157,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CCO-CACHIPUENDO CUALCHI OSCAR VINICIO (JCA FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 158,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CCP-CORO CEPEDA ROSA PILAR",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 159,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FLORES DE LA CAMPIÑA SAS",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 160,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CER-CERESFARMS CIA. LTDA.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 161,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CFA-COMPAÑIA FLORICOLA AGROSUSANFLOWERS S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 162,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CFJ-CAMACHO CEPEDA JORGE LUIS (FLORDELVIC)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 163,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CFS-CANTIZA FLORES S.A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 164,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CFV-CHORLANGO FERNANDEZ VERONICA ROCIO (LV IGNACIO FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 165,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CFX-COOPERATIVA DE PRODUCCION FLORICOLA COEXFLOR",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 166,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CGD-CHACON GUERRA DORIS GIOCONDA (IGUIÑARO ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 167,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CGJ-CABASCANGO GUASGUA JHENY MARLENE (KILLARI FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 168,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CGM-CRUZ GÓMEZ JOSÉ MIGUEL (REMI FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 169,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CHA-CHANCOSI RAMOS ELSA FERNANDA (MAYFER FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 170,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CHH-CHIMARRO HERMOSA ARTURO (FLOWERBED)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 171,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CIJ-CATUCUAGO INLAGO JOSE RODRIGO (GABY FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 172,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CIL-CATUCUAGO INLAGO LEONARDO JOEL (CAPITAL ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 173,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CJJ-CAMALLI JAMI VICTOR JOSÉ (LA BONITA)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 174,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CJR-CASTRO CUASCOTA JEFFERSON FABRICIO (JANEC ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 175,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CLC-COBOS LOPEZ CARLOS WILLIAM (SPRING FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 176,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CL-CLARIVEL CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 177,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CLL-COLLAGUAZO PINANGO JOSE RAMIRO",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 178,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CMT-CAMPO Y TECNOLOGIA CAMPTEC S.C.C.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 179,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CMX-COMEXIGER S.A.S",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 180,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CNF-CATUCUAGO CATUCUAGO JOSE RAUL (NIXON- FOREVER ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 181,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CNM-CASTRO NARVAEZ MANUEL ALEJANDRO (ARASARI FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 182,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "COA-SANCHEZ CATOTA LOIDA ISABEL (ROSA DE SARON)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 183,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CO-OLIVARES",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 184,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CPC-COYAGO PACHECO CLAUDIO HORACIO (ROUS-ELEN FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 185,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CPN-CEDEÑO PALACIOS NELLY MARILYN (MANANTIAL FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 186,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CQD-CHAVEZ QUIMBIULCO DIEGO GERARDO (DIMAFLORA)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 187,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CQS-CABASCANGO QUILUMBAQUIN STEVEN SAUL (RISAN FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 188,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CR-AGRICOLA CIRCASIA SAS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 189,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CSA-EL CAMPANARIO DE SANTA ANITA  S.C.C",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 190,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CSF-CISNEROS SIMBAÑA FREDDY PATRICIO (DJ FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 191,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CSM-CHILUISA SARAGOCIN MERCEDES DEL PILAR (GALEX ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 192,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CT-AGRICOLA EL CACTUS S.A",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 193,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CTG-COMERCIAL TECNICA GUAYLLABAMBA COTEG",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 194,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CUM-CONLAGO ULCUANGO MARIO PATRICIO (IGNA ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 195,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CUS-MEJIA FLOWERS FLIA S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 196,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CVA-CAMPOVERDE AGUILAR MARIA VICENTA (FLORES DEL CAMPO)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 197,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CVC-CHALACA VALENCIA CRISTIAN RAMIRO (CRISLEN ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 198,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CYJ-CACUANGO YEPEZ JESSICA JEANNINA (PARADISE FLORAL)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 199,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CYM-COYAGO COYAGO MARÍA DOLORES (CQ FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 200,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "D1-DALIA TROPICAL FLOWERS S A S",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 201,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "DA-APOSENTOS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 202,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "DBS-DIMEHK BUSINESS & SHIPPING CORPORATION CIA. LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 203,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "DF-DISCOVERY",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 204,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "DF-DREAMFARMS CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 205,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "DFS-DAWN",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 206,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "DG-DAMAGRO",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 207,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "DG-DAMAGROFARMS S A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 208,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FLORES DEL LAGO SAS CI",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 209,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "DM-DREAM FARMS",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 210,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "DM-FINCA SAN EMILIANO FISANEM CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 211,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "DN-DENMAR S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 212,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "DNN-SANCHEZ CUASCOTA SONIA MARISOL (DENNIS FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 213,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "DNR-DIAZ NAGUAÑA RAFAEL SANTIAGO (MIDI FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 214,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "DRM-GUARICELA CAMPOVERDE RAMIRO DAVID",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 215,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "DSF-DASALFLOR S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 216,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "DVE-DAVINCIROSES EXPORTACIONES CIA. LTDA.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 217,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "DAWN FLOWERS SAS",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 218,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FLORES EL CAPIRO SA",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 219,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "ECH-EGAS CHIRIBOGA FERNANDO AGUSTIN",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 220,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "ECP-EC-PRIME-ROSES S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 221,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "ECU-ECUADORIAN&SOUL CIA. LTDA.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 222,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "EDS-EDENROSES CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 223,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "EEF-EFANDINA EMPRESA FLORICOLA ANDINA S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 224,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "EEN-ECUANROS ECUADORIAN NEW ROSES SOCIEDAD ANONIMA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 225,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "EXPRESS FARM S A S",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 226,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "EFL-ECUAFLOR S.A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 227,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "EFS-EVER FLORIST SOCIEDAD ANONIMA CIVIL",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 228,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "EGF-ECOAGROFARMS S.A.S",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 229,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "EGM-ESPINOSA GALLEGOS MANUELA ALICIA (FLORALIS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 230,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "ETZ KAINOS S A S",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 231,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "EL MILAGRO FLOWERS SAS",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 232,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "EMR-ENRIQUEZ MONTENEGRO ROBINSON GUILLERMO (KAMYLAS FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 233,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "EQ-E.Q.R EQUATOROSES C.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 234,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "EQ-EQUATOROSES (EQR)",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 235,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "ERA-ECUATORIAN FLOWER GRUNKO CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 236,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "ESC-AGROGANADERA ESPINOSA CHIRIBOGA S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 237,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "ESE-PUJOTA GUASGUA CARLOS ANIBAL ( MER- C ROSAS )",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 238,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "ESR-ENDLESS SPRING FARMS",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 239,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "ESS-TESSAROSES S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 240,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "ETE-GREEN SOUL FLOR ETERNA CIA. LTDA.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 241,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "EU-ECUADOR UNIQUE",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 242,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "EU-ECUADORUNIQUE COLLECTION S A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 243,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FAC-FIALLOS ANDRANGO CARMEN EUFEMIA (SAN ALFONSO ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 244,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FAE-FLORES ECUATORIANAS DE CALIDAD S.A. FLORECAL",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 245,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FCJ-FARINANGO CACUANGO JOSE MANUEL (FARIN ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 246,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FDD-SOCIEDAD CIVIL SFE",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 247,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FDE-FLORICENTRA DEL ECUADOR CIA. LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 248,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FDH-FLORES DE LA HACIENDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 249,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FDL-FLORES DEL LAGO FLORLAGO CIA. LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 250,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FDR-FLORESDREAMS CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 251,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FEF-FOREVERFLOR CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 252,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FEQ-FLORES EL QUIJUAR",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 253,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FET-FONSECA ESTEVEZ TANNIA JACQUELINE (BEAUTY SISA)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 254,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FFV-FFV HACIENDA LA VICTORIA S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 255,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FFW-FIORENTINA FLOWERS S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 256,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FGD-FLOWERGOLD S.A.S.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 257,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FGI-FLORICOLA GEOVANNY IMBAQUINGO COORPORACION (FLOGEICORP CIA. LTDA.)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 258,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FGN-FEGACON CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 259,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FH-FLORECOT S A",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 260,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FHM-FLORES HERRERA MARCO RENAN (JARDINOR)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 261,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FI-C.I. FILLCO FLOWERS SAS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 262,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FIC-FIORI COLOMBIA S A S",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 263,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FIE-AGRICOLA JUNARFRA CIA. LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 264,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FI-SAN ISIDRO (FLORSANI)",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 265,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FJU-CUASCOTA INLAGO MARIA CLARA (FLORJULIAN)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 266,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FLA-FLORES LA ALEGRIA ALEFLOWERS CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 267,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FLE-FLEURO S.A FLEUROSA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 268,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FLH-FLORICOLA LA HERRADURA FLOHERRA S A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 269,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FLJ-FLORES LA JULIANA S A JULFLORSA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 270,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FLO-FLORES DE LA COLINA FLODECOL S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 271,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FLT-FLORICOLA LATINAFARMS CIA. LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 272,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FLY-FLORELOY S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 273,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FME-FRESH MARKET OF ECUADOR S.C.C.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 274,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FMF-FLORES MAGICAS FLORMAGIC CIA. LTDA.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 275,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FM-FLORES MARNEL",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 276,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FOF-ANAFO FLOWERS CIA. LTDA.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 277,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FLORES DE ORIENTE SA CI",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 278,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FO-FLORISOL CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 279,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FOM-FLORES INMORTALIZADAS INMORTFLOR S A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 280,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FPF-FLORICOLA PONTON FOREVERFLOR CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 281,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FP-FLEXPORT DE COLOMBIA SAS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 282,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FQS-FLORES EQUINOCCIALES SA FLOREQUISA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 283,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FLORANDINA SAS",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 284,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FRA-FLORAROMA S A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 285,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FR-FLORES DEL RIO",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 286,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FRL-STARFLOWERS CIA. LTDA.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 287,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FRN-FLORANDINA",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 288,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FRO-FLORÍCOLA ROOS CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 289,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FRS-FLORESRAMONA SAS",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 290,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FS-FALCONFARMS DE ECUADOR S.A. FINCA FLORES SANTA MÓNICA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 291,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FSH-FARINANGO QUINCHE SHEFERSON ESTUARDO (LAND MAGIC)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 292,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FSN-FLORICOLA SAN ISIDRO LABRADOR FLORSANI CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 293,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FSR-FLORES SANGUCHO ROBERTO CARLOS (ARYANNA ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 294,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FT-FINCA FLORENCANTO CIA LTDA FINENFLOR",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 295,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FTT-FLORICOLA ATTAROSES CIA. LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 296,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FTV-FLORICOLA TIERRA VERDE TIERRVERD CIA. LTDA.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 297,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FU-FLORES Y FRUTAS FLORIFRUT S A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 298,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FVE-FLORES VERDES SA FLORDES",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 299,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FVR-FLORVALSA FLORES VALAREZO S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 300,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FZ-FUNZA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 301,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FRESH GARDENS SAS",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 302,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "G1-FRESH GARDENS SAS",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 303,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "GAA-GUAMAN AILLA AUGUSTO FERNANDO (EDELMY ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 304,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "GCE-GALLEGOS CUASCOTA EDISON PATRICIO (GALL GARDEN)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 305,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "GCS-GUACHAMIN CISNEROS SEGUNDO JUAN (PKL FLORAL_INSPIRE FLOR)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 306,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "GEX-GARDAEXPORT S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 307,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CI GUTIMILKO SA",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 308,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "GK-CI GUTIMILKO SA",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 309,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "GLX-GALAXYTRADE CORP CIA. LTDA.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 310,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "GN-GRANADA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 311,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "GQM-GUASGUA QUIMBIAMBA MARCO VINICIO (TOMAS FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 312,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "GRW-GROWERFARMS S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 313,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "GSR-GAMARRA SILVA ROGER RAUL ASUNCIÓN",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 314,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "GTJ-GUERRERO TULCANAZA JOSÉ JOAQUIN (JEMYG ROSAS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 315,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "GUA-GUAISA S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 316,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "GVS-GUZMAN VASQUEZ SEGUNDO ROGELIO (SISA YAKU)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 317,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "GWF-GWFLOWERS S.A.S",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 318,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "GREENEX SAS",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 319,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "GYP-GYPSO S A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 320,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "HEC-UTOPIA FARMS UTF S.A.S. (EL CHIVAN)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 321,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "HFF-HACIENDA SANTA FE FESAHA CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 322,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "HJV-HOJAVERDE CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 323,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "HMD-HACIENDA MIRAFLORES DE CHISINCHE SACHAFLOR CIA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 324,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "HO-HORTELANOS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 325,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "HPC-HERRERA POZO CARLOS BOLIVAR (LEON ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 326,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "HTJ-HORTIJARDINES S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 327,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "HV-HOJA VERDE",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 328,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "HXE-HOLEX ECUADOR S.A.S.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 329,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "IAP-AYALA PUGA FERNANDA ELIZABETH (FLORÍCOLA GUARAQUI)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 330,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "INR-INROSES S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 331,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "INV-INVERSIONES PONTETRESA S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 332,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "IRO-FLORICOLA I ROSE STB S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 333,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "IV-INVERPALMAS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 334,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "IYA-INVERSIONES YAKAREN S A S",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 335,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "JB-JUMBO",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 336,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "JB-JUMBOROSES CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 337,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "JE-SAN JOSE",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 338,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "JFF-JET FRESH FLOWER GROWERS OF ECUADOR JFFGROWERS S.A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 339,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "JJJ-JARAMILLO JARAMILLO JOSEFINA<br>GUADALUPE",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 340,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "JMF-JOSETH & MAXIMILIAN FLOWERS S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 341,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "EL JORDAN FARMS SAS",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 342,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "JOR-FLORICULTURA JOSARFLOR S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 343,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "JSL-JUMA SALAZAR LUIS OSWALDO",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 344,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "SKY FLOWERS S A S",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 345,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "K5-SKY ROSES COLOMBIA S A S",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 346,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "KAV-ALKAVAT CIA. LTDA.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 347,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "KFC-KAMYLAS FLOWERS C.L",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 348,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "KHU-AGRICOLA KHUYAY FARMAN AKHUFAR CIA. LTDA.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 349,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "KKF-CUASCOTA CUASCOTA JORGE OSWALDO (KIM KAROL FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 350,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "KU-PACIFIC",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 351,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "KYM-QUIMBITA CADENA BERTHA VERONICA (KEYCEM)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 352,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "L0-FLORES LATITUD CERO FLORLATCERO CIA  LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 353,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "L0-LATITUDE ZERO",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 354,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "LAD-CUJI COLLAGUAZO SEGUNDO AURELIO (ROSAS MARIAS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 355,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "LAN-UIO",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 356,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "LAT-FLORICOLA PALATUFLOWERS S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 357,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "LCJ-LEMA CHANCOSI JOSÉ FERNANDO (GENSY FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 358,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "LCL-LANDETA CONLAGO LUIS HERNAN (ROSAS LAND)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 359,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CELESTE FLOWERS SAS",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 360,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "LFA-ANTHEMON S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 361,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "LFC-LIVING FLOWER COMPANY",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 362,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "LFM-AGUILAR JARAMILLO MARIA CONSUELO (LUCERO FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 363,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "LG-LA GAITANA FARMS S A",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 364,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "LI-LATINFLOR S A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 365,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "LJF-LOJA FARMS",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 366,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "LLA-FLORICOLA LLANOS DE ALBA LLADEAL CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 367,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "LLE-MAYORGA CEVALLOS LUIS FELIPE",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 368,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "LLM-LLUMILUISA MAIGUA EDISON EDUARDO (SAMMY FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 369,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "LOLITA FLORES S A S",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 370,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "LOS-ROSAS DEL ALAMO",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 371,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "LP-PLAZOLETA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 372,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "LSG-LAGLA SANTILLAN GLORIA SILVANA (NATURAL FRESH)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 373,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "LTL-TOAQUIZA PUCUJI ARTURO (T&T FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 374,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "LVC-LANDAETA VILLAMARIN CARLOS HUGO (NETZERIM-LOS RENUEVOS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 375,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "MAG-CACUANGO CACUANGO SEGUNDO ANDRES (MARINGARDENS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 376,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "MA-PLANTACIONES MALIMA CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 377,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "MB-FALCONFARMS DE ECUADOR S.A. FINCA MARÍA BONITA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 378,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "MCG-MANTILLA CHARRO GARY MARCELO (EUNOIA FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 379,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "MCL-MAIGUA CHILIQUINGA LUZ ANGÉLICA (ANGELUZ FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 380,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "MEG-MENDOZA MAIGUA EDISON GEOVANY",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 381,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "MASTERLY FLOWERS SAS",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 382,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "MFM-MALDONADO FERNANDEZ MARLENE (MARLE ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 383,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "MFR-MILANFLOR S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 384,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "MGF-MEGAFLOR",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 385,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "MIG-MOPOSA IMBA GLORIA VIVIANA (IVANVIV FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 386,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "MIP-MILTON PUGA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 387,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "MLC-MAIGUA LLUMILUISA CARLOS SANTIAGO",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 388,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "MLF-MILIFARMS CIA  LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 389,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "MLO-INDUSTRIAL Y AGROPECUARIA CLARCOMCORP CIA. LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 390,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "MLR-MILROSE S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 391,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "MME-MAIGUA MAIGUA EDISON ALEXANDER (FRESH FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 392,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "MMM-MAIGUA MAIGUA MARIA LUCILA (QUALITY HARVEST FARMS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 393,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "MN-FALCONFARMS DE ECUADOR S.A. FINCA MANUELA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 394,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "MNT-CLAUDIO REINOSO MARIA ELISABETH (MONET ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 395,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "MOR-MORA MARCO VINICIO (FLORES RAMONA)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 396,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "MPD-MOPOSA PENEIDA DIEGO FERNANDO",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 397,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "MPL-MENDOZA PALLO LUIS RICARDO (ECUAFLORA)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 398,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "MRC-MERIZALDE Y RAMIREZ CARNATIONS S A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 399,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "MR-MADAMME ROSES S A S",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 400,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "MRM-MILLON ROSES MILLONROSES S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 401,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "MTR-COMERCIALIZADORA MONTEROS Y PAZMIÑO",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 402,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "MUN-FLORES PARA EL MUNDO FLORMUNDO CIA. LTDA.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 403,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "MW-MAIGUA MAIGUA JOSE GERMAN",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 404,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "MYS-MYSTICFLOWERS S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 405,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "MYT-MYRTIS FARMS S.A.S.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 406,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CULTIVOS MANZANARES SAS",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 407,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "N4-NFC S A S",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 408,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "NOVAMUNDI S A S",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 409,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "NAP-FLORES DE NAPOLES FLORNAPOL S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 410,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "NEV-NEVADO ECUADOR NEVAECUADOR, S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 411,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "NF-NOVELTY AND FLOWERS SAS",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 412,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "NFP-NATURAL FLOWERS AND PRODUCTS CIA. LTDA. NAFLOWP",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 413,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "NI-NINTANGA S A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 414,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "NM-NEUMANN FLOWERS NEUFLOWERS CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 415,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "NNF-CUZCO CUPUERAN JUAN ALBERTO (EXPORTADORA NINA FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 416,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "NS-NATURAL FARMS SAS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 417,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "NTF-NATUFLOR, S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 418,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "NUK-NEIRA UMBARILA KELLY JOHANA (INFINITY LOVE)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 419,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "NVF-NOVELFARMSS S.A.S.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 420,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "FANCY FLOWERS SAS",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 421,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "OC-COCOFARMS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 422,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "OCR-ECOFLOR GROUPCHILE CIA. LTDA.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 423,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "OHG-OSIÑA HEREDIA GUSTAVO (TOUCH OF FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 424,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "OJH-OBANDO JIMENEZ HORACIO SEBASTIAN (VALENTINA FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 425,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "OLP-OLIMPO FLOWERS CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 426,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "OMS-ONE MILLION STEMS",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 427,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "OPK-OBANDO PAREDES KARINA ELIZABETH (MELFLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 428,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "P7-PHYTOTEC SAS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 429,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "PAL-PICO ACOSTA LUCIA ISABEL",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 430,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "PA-PANDERO",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 431,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "PAR-PACHECO CUNUHAY MILTON JOSÉ (PÁRAMO ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 432,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "PBM-PILLAJO BEDOYA MISAEL MODESTO (MICHAISA FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 433,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "PB-PACIFIC BOUQUET",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 434,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "PCE-PARRA CADENA EDWIN BAYARDO (ROSE MARIN)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 435,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "PCH-PINANJOTA CHICAIZA GALO PATRICIO (FAVORITE ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 436,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "PCN-PINANGO CACUANGO NELSON FERNANDO (DIMA ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 437,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "PES-PRODUCTORA Y EXPORTADORA DE FLORES SACHA ROSE CIA. LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 438,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "PFS-POSITANO FARMS S.A.S",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 439,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "PIC-PICASSOROSES CIA. LTDA.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 440,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "PI-JARDINES PIAVERI CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 441,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "PIL-PILICITA LUJE MARIA GLORIA (ADARA ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 442,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "PLE-PULAMARIN LEMA EDWIN DAVID (GUADALUPE ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 443,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "PÑF-PEÑAFIEL PARRA RICARDO LORENZO",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 444,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "POZ-DEL POZO ANDRADE DIEGO JAVIER",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 445,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "PPL-PROAÑO PROAÑO LUIS (ROSA GRANDE)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 446,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "PPM-PACHECO PACHECO MARIA GLADYS (BETS ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 447,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "PRJ-PUJOTA REINOSO JOSÉ RAMIRO (MARICELA GARDENS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 448,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "PR-PRECIOUS",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 449,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "PSJ-PUJOTA SIMBAÑA JOSE OSWALDO (ESPERANZA ROSAS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 450,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "PS-PRINCESS",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 451,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "PVD-PARRA VILLACIS DANIELA (DVILLA ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 452,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "PY-PYGAN FLOR",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 453,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "QCE-QUIMBIAMBA CUASCOTA EDGAR EFRAIN",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 454,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "QCL-QUISHPE CHOLANGO LUIS MEDARDO",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 455,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "QIT-QUITO INORFLOWERS TRADE CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 456,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CI QUIRAMA SAS",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 457,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "QUA-QUALITY SERVICE S A QUALISA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 458,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "R.U-FLORICOLA KILLUYURAK S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 459,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "RE-AGRICOLA EL REDIL SAS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 460,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "RER-MARTINEZ HIDALGO JOSE RICARDO - DAZARINA FLOWERS",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 461,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "RFL-ROYALFLOWERS S A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 462,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "RGE-RIVADENEIRA GUASGUA ELENA DEL CARMEN (HELEN FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 463,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "RIF-AGRIFEG SOCIEDAD ANONIMA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 464,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "RLM-ROSAS LA MARTINA RLM S A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 465,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "RMI-IMPERIAL FLOWERS",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 466,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "RPP-ROSAPRIMA CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 467,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "RPR-ROSAS DE PERUGACHI ROSASPE S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 468,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "RSU-ROSESUCCESS CIA. LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 469,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "RT-RETIRO",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 470,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "SUNSET VALLEY S A S",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 471,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "SAD-SANDE ECUADOR CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 472,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "SBF-SANTILLAN BORJA FRANCISCO RAFAEL",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 473,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "SCH-FLOR HERMOSA SOCIEDAD CIVIL Y COMERCIAL",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 474,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "SCJ-SEGOVIA CRUZ JUAN ANTONIO (AGRICOLA CARMEN AMELIA)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 475,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "SCL-SANTA CLARA GARDENS CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 476,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "SE-FLORES DE SERREZUELA S A S",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 477,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "SES-ROSES INFINITY SCC",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 478,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "SET-FLORICOLA SUNSETVALLEY FLOWERS CIA. LTDA.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 479,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CI SAN FRANCISCO GARDENS SAU",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 480,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "SFR-SAFETY FLOWERS SOCIEDAD ANONIMA CIVIL",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 481,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "SF-SAN FRANCISCO GARDENS",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 482,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "SGJ-SANIPATIN GUANO JOSE ALCIDES (SANI ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 483,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "SGN-SANIMAGARDEN S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 484,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "SHY-GRIJALVA ANDRAMUNIO EDWIN PATRICIO (ROSAS DE ALICIA)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 485,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "SIC-IMBAQUINGO CATUCUAGO SEGUNDO RAFAEL (FRANGY ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 486,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "SIT-FEELFLOWERS CIA. LTDA.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 487,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "SJR-SAN JORGE ROSES AND FEELINGS S.C.C.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 488,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "SJ-SAN JUAN",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 489,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "SKR-SKYROSES CIA. LTDA.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 490,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "SLC-SOCIEDAD LA CLEMENTINA FARMS",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 491,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "SM-FALCONFARMS DE ECUADOR S.A. FINCA AZAMA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 492,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "SMJ-SALAZAR MALLIQUINGA JOSE LUIS (BELEN'S GARDEN ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 493,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "SNW-GUALAVISI IPIALES SONIA ERMELINDA (SNOWY FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 494,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "SO-SUNSET VALLEY SAS",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 495,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "SPF-SOLPACIFIC SA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 496,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "SP-SIERRAPLANTAS CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 497,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "SPS-SOLIS PILLAJO SOFIA CAROLINA (NIKOS FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 498,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "SQ-SUASUQUE S.A.S",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 499,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "SRS-SPRING ROSES SPRIRO S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 500,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "STA-STAMPSYBOX CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 501,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CI CULTIVOS SAYONARA SAS",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 502,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "TA-ART ROSES",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 503,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "TAN-TURIS AGRO NELPO S A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 504,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "TCA-TOAQUIZA CHANGOLUISA ARTURO ISAAC (T&T FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 505,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "TCC-TOAPANTA CATUCUAMBA CONCEPCIÓN VIRGINIA (ANTHOALEJANDRA)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 506,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "TCL-TUQUERRES CHANCOSI LUIS GUIDO (CUNA DE ROSAS DEL CAYAMBE)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 507,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "TCO-TARAPUES CUASQUER OLGA ELIZABETH (FENIX)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 508,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "TEF-TECNOFIL S.A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 509,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "TEX-TEXASFLOWERS S A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 510,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "TF-TUCAN",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 511,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "THO-VALTHOMIG S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 512,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "TKB-PRODUCTORA Y EXPORTADORA TIKABAMBA S.A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 513,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "TLJ-TIPANLUIZA LANCHIMBA JUAN MIGUEL (ROSAS DEL VIENTO)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 514,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "TPZ-TARAPUES POZO ROSARIO CECILIA (ROSARIFLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 515,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "TQH-TIPANLUISA QUINCHE HECTOR PAUL",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 516,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "TRE-PLANTACIONES PLANTREB CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 517,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "TTC-LANCHIMBA TUTILLO MANUEL CLEMENTE (BLESS FLOWER)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 518,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "TTP-FLORES HERRERA PABLO RENAN (TERRA PACIFIC)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 519,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "TU-TURFLOR SAS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 520,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CULTIFLORA DE COLOMBIA SAS",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 521,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "UNIFLOR  SOCIEDAD POR ACCIONES",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 522,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "UFC-ULCUANGO FERNANDEZ CRISTINA ESTEFANIA (ASDEL ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 523,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "UF-UNIFLOR",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 524,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "UFY-UTOPIA FARMS UTF S.A.S. (FYC)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 525,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "UGS-UGSHA FARMS COMPANIA LIMITADA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 526,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "ULM-UTOPIA FARMS UTF S.A.S. (LA MORA)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 527,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "UMO-MIGUEL ULCUANGO (GIRON FLOWERS)",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 528,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "UN-UNIQUE FLOWERS US",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 529,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "UO-CULTIFLORA DE COLOMBIA SAS",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 530,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "UPM-ULCUANGO PUJOTA MARIA SUSANA (ELEGANT ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 531,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "URS-ULCUANGO ROSES SA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 532,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "USM-UTOPIA FARMS UTF S.A.S. (SANTA MARTHA)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 533,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "USP-UTOPIA FARMS UTF S.A.S. (SAN PABLO)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 534,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "V0-AGRICOLA VIYAZARIG S A S",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 535,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "V9-SISAPAMBA ROSAS Y ROSAS SOCIEDAD COLECTIVA CIVIL",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 536,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "VA-FLORES DEL VALLE S.A. VALLEFLOR",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 537,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "VAJ-VILLAMARÍN ANDRANGO JUAN PABLO (MEGA FLOR)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 538,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "VCF-VALENCIA CUALCHI FAUSTO JEFFERSON (DOMÉNICA FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 539,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CI FLORES DE LA VEGA SAS",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 540,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "VFL-VIOLETA FLOWERS AND FARMS VIOLEFLOWERS S A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 541,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "VPJ-VALENCIA PUJOTA JAIME (VALENT ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 542,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CI FLORES DE LA VICTORIA SAS",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 543,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "VU-VUELVEN S A S",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 544,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "VVE-VINUEZA VINUEZA EDISON GEOVANNY (RANCHO SAN JORGE)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 545,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "VVJ-VILCA VILCA JAIME STALIN",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 546,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "VVM-VILLARRUEL VILLEGAS MONICA (RINCÓN FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 547,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "WCL-CALERO LARA WILIAN EDWINSON (INTERANDINA FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 548,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "XCA-EXPORTCALAS S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 549,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CI FLORCO SA",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 550,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "XFL-EXPORTADORA DE FLORES EXPOFLOR CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 551,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "YAA-FLORICOLA HAYAT FLOWERS HAYATFLOWERS CIA.LTDA.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 552,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "YCM-YANCHAGUANO CAIZA MARCO VINICIO (PATUKA FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 553,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "YM-ALARCON YANEZ MARIA INEZ",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 554,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "YNY-YENAY CIA.LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 555,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "YOL-ESPIN MARMOL YOLANDA IBETH (YOLIROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 556,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "YTJ-YANCHAGUANO TOAPANTA JIMENA GRISELDA (JIME FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 557,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "CI ZION FLOWERS SAS",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 558,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "ZML-ZALDUMBIDE MORALES LILIA MARGARITA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 559,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "ZVE-ZV EXPORT CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 560,
+        "tipo_actor": "EI",
+        "nombre": "ICON",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 561,
+        "tipo_actor": "EI",
+        "nombre": "WIGA",
+        "ubicacion": "Colombia",
+        "activo": true
+    },
+    {
+        "id": 562,
+        "tipo_actor": "EI",
+        "nombre": "PRESH TECH",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 563,
+        "tipo_actor": "EI",
+        "nombre": "WIGA",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 564,
+        "tipo_actor": "ENTIDADES_GOBIERNO",
+        "nombre": "CUSTOMS AND BORDER PROTECTION",
+        "ubicacion": "USA",
+        "activo": true
+    },
+    {
+        "id": 565,
+        "tipo_actor": "ENTIDADES_GOBIERNO",
+        "nombre": "DEPARTAMENTO DE IMPUESTO Y ADUANAS NACIONALES",
+        "ubicacion": "Colombia",
+        "activo": true
+    },
+    {
+        "id": 566,
+        "tipo_actor": "ENTIDADES_GOBIERNO",
+        "nombre": "INSTITUTO COLOMBIANO AGROPECAURIO",
+        "ubicacion": "Colombia",
+        "activo": true
+    },
+    {
+        "id": 567,
+        "tipo_actor": "ENTIDADES_GOBIERNO",
+        "nombre": "POLICIA NACIONAL",
+        "ubicacion": "Colombia",
+        "activo": true
+    },
+    {
+        "id": 568,
+        "tipo_actor": "EXTERNO",
+        "nombre": "EXTERNO",
+        "ubicacion": "Colombia",
+        "activo": true
+    },
+    {
+        "id": 569,
+        "tipo_actor": "GHT",
+        "nombre": "COMERCIO EXTERIOR",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 570,
+        "tipo_actor": "GHT",
+        "nombre": "LOGÍSTICA DE TRANSPORTE",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 571,
+        "tipo_actor": "GHT",
+        "nombre": "OFERTA Y DEMANDA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 572,
+        "tipo_actor": "GHT",
+        "nombre": "PROYECTOS LOGÍSTICOS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 573,
+        "tipo_actor": "GHT",
+        "nombre": "TRANSFORMACIÓN DIGITAL",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 574,
+        "tipo_actor": "GHT",
+        "nombre": "TORRE DE CONTROL",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 575,
+        "tipo_actor": "OCA",
+        "nombre": "AEROSAN",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 576,
+        "tipo_actor": "OCA",
+        "nombre": "AEROSUCRE",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 577,
+        "tipo_actor": "OCA",
+        "nombre": "AIR CARGO PACK",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 578,
+        "tipo_actor": "OCA",
+        "nombre": "AMERICAN",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 579,
+        "tipo_actor": "OCA",
+        "nombre": "AVIANCA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 580,
+        "tipo_actor": "OCA",
+        "nombre": "AVIANCA",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 581,
+        "tipo_actor": "OCA",
+        "nombre": "AVIANCA",
+        "ubicacion": "Miami",
+        "activo": true
+    },
+    {
+        "id": 582,
+        "tipo_actor": "OCA",
+        "nombre": "COLFRIGOS FUNZA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 583,
+        "tipo_actor": "OCA",
+        "nombre": "COPA AIRLINES",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 584,
+        "tipo_actor": "OCA",
+        "nombre": "DHL",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 585,
+        "tipo_actor": "OCA",
+        "nombre": "GIRAG",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 586,
+        "tipo_actor": "OCA",
+        "nombre": "GIRAG",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 587,
+        "tipo_actor": "OCA",
+        "nombre": "IBERIA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 588,
+        "tipo_actor": "OCA",
+        "nombre": "LATAM-UIO",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 589,
+        "tipo_actor": "OCA",
+        "nombre": "LAVAFANTE",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 590,
+        "tipo_actor": "OCA",
+        "nombre": "MENZIS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 591,
+        "tipo_actor": "OCA",
+        "nombre": "NOVACARGO",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 592,
+        "tipo_actor": "OCA",
+        "nombre": "PERTRALY",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 593,
+        "tipo_actor": "OCA",
+        "nombre": "TAESCOL",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 594,
+        "tipo_actor": "OCA",
+        "nombre": "TC1",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 595,
+        "tipo_actor": "OCA",
+        "nombre": "TITANIUM",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 596,
+        "tipo_actor": "OCA",
+        "nombre": "TRANSAEREO",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 597,
+        "tipo_actor": "OCA",
+        "nombre": "UPS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 598,
+        "tipo_actor": "OCA",
+        "nombre": "WORLD WIDE",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 599,
+        "tipo_actor": "OSL",
+        "nombre": "EXPORINTER",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 600,
+        "tipo_actor": "OSL",
+        "nombre": "EXPORINTER",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 601,
+        "tipo_actor": "OTA",
+        "nombre": "ABX AIR INC.",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 602,
+        "tipo_actor": "OTA",
+        "nombre": "AEROLINEAS ARGENTINAS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 603,
+        "tipo_actor": "OTA",
+        "nombre": "AIR CARGO LINE\/AIR EUROPA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 604,
+        "tipo_actor": "OTA",
+        "nombre": "AIR MADRID",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 605,
+        "tipo_actor": "OTA",
+        "nombre": "AIR PLUS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 606,
+        "tipo_actor": "OTA",
+        "nombre": "ALITALIA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 607,
+        "tipo_actor": "OTA",
+        "nombre": "AMERICAN AIRLINES",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 608,
+        "tipo_actor": "OTA",
+        "nombre": "AMERIJET",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 609,
+        "tipo_actor": "OTA",
+        "nombre": "ARROW",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 610,
+        "tipo_actor": "OTA",
+        "nombre": "ATLAS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 611,
+        "tipo_actor": "OTA",
+        "nombre": "AVIANCA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 612,
+        "tipo_actor": "OTA",
+        "nombre": "AVENSA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 613,
+        "tipo_actor": "OTA",
+        "nombre": "AVIANCA",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 614,
+        "tipo_actor": "OTA",
+        "nombre": "AVIANCA",
+        "ubicacion": "Miami",
+        "activo": true
+    },
+    {
+        "id": 615,
+        "tipo_actor": "OTA",
+        "nombre": "AVIANCA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 616,
+        "tipo_actor": "OTA",
+        "nombre": "BRITANIA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 617,
+        "tipo_actor": "OTA",
+        "nombre": "BRITISH AIRWAYS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 618,
+        "tipo_actor": "OTA",
+        "nombre": "CARGO LUX",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 619,
+        "tipo_actor": "OTA",
+        "nombre": "CHALLENGE",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 620,
+        "tipo_actor": "OTA",
+        "nombre": "CIELOS DEL PERU",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 621,
+        "tipo_actor": "OTA",
+        "nombre": "CONNECTA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 622,
+        "tipo_actor": "OTA",
+        "nombre": "CONTINENTAL",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 623,
+        "tipo_actor": "OTA",
+        "nombre": "CUBANA DE AVIACION",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 624,
+        "tipo_actor": "OTA",
+        "nombre": "DELTA AIRLINE",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 625,
+        "tipo_actor": "OTA",
+        "nombre": "ETHIOPIAN",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 626,
+        "tipo_actor": "OTA",
+        "nombre": "FEDEX",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 627,
+        "tipo_actor": "OTA",
+        "nombre": "FIRST AIR",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 628,
+        "tipo_actor": "OTA",
+        "nombre": "SKY LEASE CARGO",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 629,
+        "tipo_actor": "OTA",
+        "nombre": "SKY LEASE CARGO",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 630,
+        "tipo_actor": "OTA",
+        "nombre": "IBERIA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 631,
+        "tipo_actor": "OTA",
+        "nombre": "KLM",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 632,
+        "tipo_actor": "OTA",
+        "nombre": "LANCHILE",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 633,
+        "tipo_actor": "OTA",
+        "nombre": "LANCO",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 634,
+        "tipo_actor": "OTA",
+        "nombre": "LANCO CARGO",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 635,
+        "tipo_actor": "OTA",
+        "nombre": "LATAM",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 636,
+        "tipo_actor": "OTA",
+        "nombre": "LATAM",
+        "ubicacion": "Miami",
+        "activo": true
+    },
+    {
+        "id": 637,
+        "tipo_actor": "OTA",
+        "nombre": "LATAM",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 638,
+        "tipo_actor": "OTA",
+        "nombre": "LATIN AIR",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 639,
+        "tipo_actor": "OTA",
+        "nombre": "LTU",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 640,
+        "tipo_actor": "OTA",
+        "nombre": "LUFTHANSA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 641,
+        "tipo_actor": "OTA",
+        "nombre": "MARTIN AIR",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 642,
+        "tipo_actor": "OTA",
+        "nombre": "MASAIR",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 643,
+        "tipo_actor": "OTA",
+        "nombre": "MEXICANA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 644,
+        "tipo_actor": "OTA",
+        "nombre": "SANTA BARBARA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 645,
+        "tipo_actor": "OTA",
+        "nombre": "SOLAR CARGO",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 646,
+        "tipo_actor": "OTA",
+        "nombre": "SOUTH FLORIDA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 647,
+        "tipo_actor": "OTA",
+        "nombre": "SOUTHER AIR INC",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 648,
+        "tipo_actor": "OTA",
+        "nombre": "TRANSCARIBBEAN",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 649,
+        "tipo_actor": "OTA",
+        "nombre": "UPS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 650,
+        "tipo_actor": "OTA",
+        "nombre": "VIRGIN ATLANTIC",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 651,
+        "tipo_actor": "OTA",
+        "nombre": "WE",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 652,
+        "tipo_actor": "OTA",
+        "nombre": "WEMDE",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 653,
+        "tipo_actor": "OTM",
+        "nombre": "TRANSPORTE POR MAR",
+        "ubicacion": "Guayaquil",
+        "activo": true
+    },
+    {
+        "id": 654,
+        "tipo_actor": "OTM",
+        "nombre": "HAPAG-LLOYD",
+        "ubicacion": "Cartagena",
+        "activo": true
+    },
+    {
+        "id": 655,
+        "tipo_actor": "OTM",
+        "nombre": "KING OCEAN",
+        "ubicacion": "Barranquilla",
+        "activo": true
+    },
+    {
+        "id": 656,
+        "tipo_actor": "OTM",
+        "nombre": "SEA BOARD",
+        "ubicacion": "Santa Marta",
+        "activo": true
+    },
+    {
+        "id": 657,
+        "tipo_actor": "OTT",
+        "nombre": "ALFARO SOTO MAXIMILIANO",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 658,
+        "tipo_actor": "OTT",
+        "nombre": "ALIRIO CAMARGO MORENO",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 659,
+        "tipo_actor": "OTT",
+        "nombre": "AMSCORT DE COLOMBIA SAS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 660,
+        "tipo_actor": "OTT",
+        "nombre": "BERNAL PACHECO CAMILO",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 661,
+        "tipo_actor": "OTT",
+        "nombre": "CAMINOS EXPRESS SAS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 662,
+        "tipo_actor": "OTT",
+        "nombre": "COOP. TRANSPORTADORA NACIONAL COOTRANAL",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 663,
+        "tipo_actor": "OTT",
+        "nombre": "GARZON COMBA VICTOR HELIECER",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 664,
+        "tipo_actor": "OTT",
+        "nombre": "HS INSUMOS S.A.S",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 665,
+        "tipo_actor": "OTT",
+        "nombre": "JAS SOLUCIONES EMPRESARIALES SAS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 666,
+        "tipo_actor": "OTT",
+        "nombre": "JFC TRANSPORT SAS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 667,
+        "tipo_actor": "OTT",
+        "nombre": "LUIS ALFONSO NEIRA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 668,
+        "tipo_actor": "OTT",
+        "nombre": "MANUEL IOVANNI AMAYA ALONSO",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 669,
+        "tipo_actor": "OTT",
+        "nombre": "MENDEZ SANCHEZ OSCAR ALBERTO",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 670,
+        "tipo_actor": "OTT",
+        "nombre": "MORA RODRIGUEZ WILLIAM ROBERTO",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 671,
+        "tipo_actor": "OTT",
+        "nombre": "NAVARRETE MUNAR JOSE DAVID",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 672,
+        "tipo_actor": "OTT",
+        "nombre": "NESTOR JAVIER MORENO ROCHA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 673,
+        "tipo_actor": "OTT",
+        "nombre": "TRANSBEDOYA VALLEJO",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 674,
+        "tipo_actor": "OTT",
+        "nombre": "GLOBAL TRANS LOGISTICS",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 675,
+        "tipo_actor": "OTT",
+        "nombre": "HUGO SANCHEZ",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 676,
+        "tipo_actor": "OTT",
+        "nombre": "JUAN ALEMAN",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 677,
+        "tipo_actor": "OTT",
+        "nombre": "SERVICIOS JR",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 678,
+        "tipo_actor": "OTT",
+        "nombre": "PEDRO CASTIBLANCO",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 679,
+        "tipo_actor": "OTT",
+        "nombre": "TRANSPORTES LOGISTICOS C&G",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 680,
+        "tipo_actor": "OTT",
+        "nombre": "PINEDA MUÑOZ JOSE DE LA CRUZ",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 681,
+        "tipo_actor": "OTT",
+        "nombre": "ROJAS SERVICE & LOGISTICS SAS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 682,
+        "tipo_actor": "OTT",
+        "nombre": "SANCHEZ ROJAS LUIS ALFONSO",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 683,
+        "tipo_actor": "OTT",
+        "nombre": "TORRES AVILA JORGE",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 684,
+        "tipo_actor": "OTT",
+        "nombre": "TRANSPORTES TAT SAS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 685,
+        "tipo_actor": "OTT",
+        "nombre": "VALBUENA AGUILAR DUVAN ALEJANDRO",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 686,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "AA-AAASACORPORATION S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 687,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "AAC-ALLEGROFARMS ALLFLOWERS CIA. LDTA.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 688,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "AAG-AGRICOLA TABACUNDO AGRITAB CIA. LTDA.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 689,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "AAM-ALBA ALBAMOCHO MARTHA CECILIA (MUNDIROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 690,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "AAN-AMPAM ANTUN NUSE MARIA (SHERMIL FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 691,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "AC- AGRICOLA LA CAROLINA S A S",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 692,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "ACM-AYALA CACUANGO MARIO JAVIER (AYALA FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 693,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "AD-ANDALUCIA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 694,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "ADR-AGRICOLA SAN ANDRES DEL CHAUPI S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 695,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "ADV-AGRIVALDANI S.A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 696,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "AEP-ASOCIACION EN CUENTAS EN PARTICIPACION (EPIC FARM)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 697,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "AER-RIOROSES CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 698,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "AEX-AGROCOEX S A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 699,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "AF-ALEXANDRA FARMS SAS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 700,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "AFF-ARCAFLOWER LIFE SAS",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 701,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "AFF-ARCAFLOWER LIFE SAS",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 702,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "AGROGREEN SA",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 703,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "AG-C I  AGRICOLA CARDENAL S A S",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 704,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "AGR-AGRINAG S.A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 705,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "AGT-AGROTERRANORTE S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 706,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "AHS-AGROIMPORT HTP SOCIEDAD CIVIL COMERCIAL (SKY VALLEY)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 707,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "AJF-AJ FLOWERS",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 708,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "AKF-AKARANA FARMS",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 709,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "AKF-IPEP CORPORACION S.A. (AKARANA FARMS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 710,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "ALL-ALTAMIRANO CANDO ALEXANDRA RAQUEL (ALL U ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 711,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "ALMA ROSES",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 712,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "ALM-CAMPAÑA ALMAGRO JORGE ENRIQUE (JC FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 713,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "AMM-ACHINA MONTA MAYRA ALEXANDRA (FLORES DEL MONTE)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 714,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "AMZ-AMAZINGROSES CIA.LTDA.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 715,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "AND-ANDEANROSES CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 716,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "ANR-FLORANROSA S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 717,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "AO-CÓNDOR ANDINO SAS",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 718,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "APF-AGROPRIM FARMS CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 719,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "APG-ASOCIACION DE PRODUCCION AGRICOLA PRODUCTORES PEDRO MONCAYO (ASOPROAGRIPEDRO)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 720,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "APP-ASOCIACIÓN DE PEQUEÑOS PRODUCTORES Y EXPORTADORES DE FLORES PACHA FLOWERS FLORES DE LA TIERRA ASPROPAFLO",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 721,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "ARC-ARCOFLOR FLORES ARCOIRIS S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 722,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "ARD-ARBUSTA CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 723,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "ARS-ANDREAROSES CIA. LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 724,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "ARY-COBACANGO CATUCUAGO MARIA SUSANA (MARYBELLA GARDENS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 725,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "ASA-AGROSERVICIOS ANDINOS CAMACHO S A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 726,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "AS-AGROSANALFONSO S A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 727,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "ASF-AGRICOLA SANTINO-FLOWERS CIA LTDA (SANTINO FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 728,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "ASG-CUALCHI GUASGUA CARLOS MANUEL (MAYERLY C FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 729,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "ASP-ALSAPIAN S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 730,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "ASS-EXPORT ROSES DEL ECUADOR EXPROSES S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 731,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "AU-AURORA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 732,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "AY-AYURA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 733,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "AY-CAYAMBE",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 734,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "AYD-ALANUCA YANEZ DIANA MARIBEL",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 735,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "AZ-ALTAROSA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 736,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "BAB-FLORES DE TUMBABIRO SA FLORETUM",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 737,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "BLACKRIVER FLOWERS SAS",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 738,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "BFS-BLACKRIVER",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 739,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "BFS-BOUTIQUE FLOWER'S S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 740,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "BM-BOUQUETS MIXTOS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 741,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "BPP-BUSTAMANTE PINCAY PABLO CESAR (KEYLIROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 742,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "BTA-BOLAÑOS TORRES ANA ROSARIO (HIGH GARDEN)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 743,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "BUM-BRAVO UZHCA MARIA ESTHER",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 744,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "BUENAVISTA FLORWER SAS",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 745,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "BV-BUENAVISTA FLOWERS SAS (RIONEGRO)",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 746,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "BYF-BYFAITH PRODUCTORES & EMPACADORES AGRÍCOLAS Y ALIMENTICIOS",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 747,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "C4-C I  FLORES COLON LTDA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 748,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CAA-YANCHATIPAN AÑARUMBA LUIS ARMANDO",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 749,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CAC-CACHIPUENDO CACHIPUENDO JOSE ORLANDO (CA&RU ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 750,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CAE-CUASCOTA ANDRANGO ENMA PIEDAD (FLORÍSTICA ECUADOR)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 751,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CAJ-CUEVA ALBUJA JEANN PABLO (SWEET&FRESH)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 752,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CAL-LITA MONTEROS CARLOS ARTURO (LITA FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 753,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CAM-CAMALLE CUMBAL LUIS MEDARDO (WENDY FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 754,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CAV-CANANVALLEY FLOWERS S A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 755,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CB-COLIBRI FLOWERS S A",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 756,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CCC-CUZCO CUALCHI CESAR FABRIZIO (FAIRIS GARDEN)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 757,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CCD-CACUANGO CACUANGO MARIA DIOSELINA (DAYANA FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 758,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CCE-CACUANGO CABASCANGO JOSÉ ERNESTO (ECUAMERICA ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 759,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CCH-CUALCHI CACHIPUENDO CESAR MAURICIO (CONTINENTAL FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 760,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CCJ-CALPA CALPA JOSE FELIX (ETERNAL ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 761,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CCM-CUASCOTA COLLAGUAZO MARIA DOLORES (LOLITA FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 762,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CCO-CACHIPUENDO CUALCHI OSCAR VINICIO (JCA FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 763,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CCP-CORO CEPEDA ROSA PILAR",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 764,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FLORES DE LA CAMPIÑA SAS",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 765,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CER-CERESFARMS CIA. LTDA.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 766,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CFA-COMPAÑIA FLORICOLA AGROSUSANFLOWERS S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 767,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CFJ-CAMACHO CEPEDA JORGE LUIS (FLORDELVIC)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 768,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CFS-CANTIZA FLORES S.A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 769,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CFV-CHORLANGO FERNANDEZ VERONICA ROCIO (LV IGNACIO FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 770,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CFX-COOPERATIVA DE PRODUCCION FLORICOLA COEXFLOR",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 771,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CGD-CHACON GUERRA DORIS GIOCONDA (IGUIÑARO ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 772,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CGJ-CABASCANGO GUASGUA JHENY MARLENE (KILLARI FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 773,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CGM-CRUZ GÓMEZ JOSÉ MIGUEL (REMI FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 774,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CHA-CHANCOSI RAMOS ELSA FERNANDA (MAYFER FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 775,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CHH-CHIMARRO HERMOSA ARTURO (FLOWERBED)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 776,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CIJ-CATUCUAGO INLAGO JOSE RODRIGO (GABY FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 777,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CIL-CATUCUAGO INLAGO LEONARDO JOEL (CAPITAL ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 778,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CJJ-CAMALLI JAMI VICTOR JOSÉ (LA BONITA)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 779,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CJR-CASTRO CUASCOTA JEFFERSON FABRICIO (JANEC ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 780,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CLC-COBOS LOPEZ CARLOS WILLIAM (SPRING FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 781,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CL-CLARIVEL CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 782,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CLL-COLLAGUAZO PINANGO JOSE RAMIRO",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 783,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CMT-CAMPO Y TECNOLOGIA CAMPTEC S.C.C.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 784,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CMX-COMEXIGER S.A.S",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 785,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CNF-CATUCUAGO CATUCUAGO JOSE RAUL (NIXON- FOREVER ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 786,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CNM-CASTRO NARVAEZ MANUEL ALEJANDRO (ARASARI FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 787,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "COA-SANCHEZ CATOTA LOIDA ISABEL (ROSA DE SARON)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 788,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CO-OLIVARES",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 789,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CPC-COYAGO PACHECO CLAUDIO HORACIO (ROUS-ELEN FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 790,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CPN-CEDEÑO PALACIOS NELLY MARILYN (MANANTIAL FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 791,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CQD-CHAVEZ QUIMBIULCO DIEGO GERARDO (DIMAFLORA)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 792,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CQS-CABASCANGO QUILUMBAQUIN STEVEN SAUL (RISAN FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 793,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CR-AGRICOLA CIRCASIA SAS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 794,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CSA-EL CAMPANARIO DE SANTA ANITA  S.C.C",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 795,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CSF-CISNEROS SIMBAÑA FREDDY PATRICIO (DJ FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 796,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CSM-CHILUISA SARAGOCIN MERCEDES DEL PILAR (GALEX ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 797,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CT-AGRICOLA EL CACTUS S.A",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 798,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CTG-COMERCIAL TECNICA GUAYLLABAMBA COTEG",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 799,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CUM-CONLAGO ULCUANGO MARIO PATRICIO (IGNA ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 800,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CUS-MEJIA FLOWERS FLIA S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 801,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CVA-CAMPOVERDE AGUILAR MARIA VICENTA (FLORES DEL CAMPO)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 802,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CVC-CHALACA VALENCIA CRISTIAN RAMIRO (CRISLEN ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 803,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CYJ-CACUANGO YEPEZ JESSICA JEANNINA (PARADISE FLORAL)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 804,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CYM-COYAGO COYAGO MARÍA DOLORES (CQ FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 805,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "D1-DALIA TROPICAL FLOWERS S A S",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 806,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "DA-APOSENTOS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 807,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "DBS-DIMEHK BUSINESS & SHIPPING CORPORATION CIA. LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 808,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "DF-DISCOVERY",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 809,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "DF-DREAMFARMS CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 810,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "DFS-DAWN",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 811,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "DG-DAMAGRO",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 812,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "DG-DAMAGROFARMS S A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 813,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FLORES DEL LAGO SAS CI",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 814,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "DM-DREAM FARMS",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 815,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "DM-FINCA SAN EMILIANO FISANEM CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 816,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "DN-DENMAR S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 817,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "DNN-SANCHEZ CUASCOTA SONIA MARISOL (DENNIS FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 818,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "DNR-DIAZ NAGUAÑA RAFAEL SANTIAGO (MIDI FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 819,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "DRM-GUARICELA CAMPOVERDE RAMIRO DAVID",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 820,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "DSF-DASALFLOR S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 821,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "DVE-DAVINCIROSES EXPORTACIONES CIA. LTDA.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 822,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "DAWN FLOWERS SAS",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 823,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FLORES EL CAPIRO SA",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 824,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "ECH-EGAS CHIRIBOGA FERNANDO AGUSTIN",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 825,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "ECP-EC-PRIME-ROSES S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 826,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "ECU-ECUADORIAN&SOUL CIA. LTDA.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 827,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "EDS-EDENROSES CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 828,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "EEF-EFANDINA EMPRESA FLORICOLA ANDINA S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 829,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "EEN-ECUANROS ECUADORIAN NEW ROSES SOCIEDAD ANONIMA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 830,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "EXPRESS FARM S A S",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 831,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "EFL-ECUAFLOR S.A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 832,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "EFS-EVER FLORIST SOCIEDAD ANONIMA CIVIL",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 833,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "EGF-ECOAGROFARMS S.A.S",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 834,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "EGM-ESPINOSA GALLEGOS MANUELA ALICIA (FLORALIS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 835,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "ETZ KAINOS S A S",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 836,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "EL MILAGRO FLOWERS SAS",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 837,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "EMR-ENRIQUEZ MONTENEGRO ROBINSON GUILLERMO (KAMYLAS FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 838,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "EQ-E.Q.R EQUATOROSES C.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 839,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "EQ-EQUATOROSES (EQR)",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 840,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "ERA-ECUATORIAN FLOWER GRUNKO CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 841,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "ESC-AGROGANADERA ESPINOSA CHIRIBOGA S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 842,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "ESE-PUJOTA GUASGUA CARLOS ANIBAL ( MER- C ROSAS )",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 843,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "ESR-ENDLESS SPRING FARMS",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 844,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "ESS-TESSAROSES S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 845,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "ETE-GREEN SOUL FLOR ETERNA CIA. LTDA.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 846,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "EU-ECUADOR UNIQUE",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 847,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "EU-ECUADORUNIQUE COLLECTION S A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 848,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FAC-FIALLOS ANDRANGO CARMEN EUFEMIA (SAN ALFONSO ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 849,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FAE-FLORES ECUATORIANAS DE CALIDAD S.A. FLORECAL",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 850,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FCJ-FARINANGO CACUANGO JOSE MANUEL (FARIN ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 851,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FDD-SOCIEDAD CIVIL SFE",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 852,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FDE-FLORICENTRA DEL ECUADOR CIA. LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 853,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FDH-FLORES DE LA HACIENDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 854,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FDL-FLORES DEL LAGO FLORLAGO CIA. LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 855,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FDR-FLORESDREAMS CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 856,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FEF-FOREVERFLOR CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 857,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FEQ-FLORES EL QUIJUAR",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 858,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FET-FONSECA ESTEVEZ TANNIA JACQUELINE (BEAUTY SISA)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 859,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FFV-FFV HACIENDA LA VICTORIA S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 860,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FFW-FIORENTINA FLOWERS S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 861,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FGD-FLOWERGOLD S.A.S.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 862,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FGI-FLORICOLA GEOVANNY IMBAQUINGO COORPORACION (FLOGEICORP CIA. LTDA.)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 863,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FGN-FEGACON CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 864,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FH-FLORECOT S A",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 865,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FHM-FLORES HERRERA MARCO RENAN (JARDINOR)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 866,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FI-C.I. FILLCO FLOWERS SAS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 867,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FIC-FIORI COLOMBIA S A S",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 868,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FIE-AGRICOLA JUNARFRA CIA. LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 869,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FI-SAN ISIDRO (FLORSANI)",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 870,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FJU-CUASCOTA INLAGO MARIA CLARA (FLORJULIAN)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 871,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FLA-FLORES LA ALEGRIA ALEFLOWERS CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 872,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FLE-FLEURO S.A FLEUROSA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 873,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FLH-FLORICOLA LA HERRADURA FLOHERRA S A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 874,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FLJ-FLORES LA JULIANA S A JULFLORSA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 875,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FLO-FLORES DE LA COLINA FLODECOL S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 876,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FLT-FLORICOLA LATINAFARMS CIA. LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 877,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FLY-FLORELOY S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 878,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FME-FRESH MARKET OF ECUADOR S.C.C.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 879,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FMF-FLORES MAGICAS FLORMAGIC CIA. LTDA.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 880,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FM-FLORES MARNEL",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 881,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FOF-ANAFO FLOWERS CIA. LTDA.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 882,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FLORES DE ORIENTE SA CI",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 883,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FO-FLORISOL CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 884,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FOM-FLORES INMORTALIZADAS INMORTFLOR S A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 885,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FPF-FLORICOLA PONTON FOREVERFLOR CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 886,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FP-FLEXPORT DE COLOMBIA SAS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 887,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FQS-FLORES EQUINOCCIALES SA FLOREQUISA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 888,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FLORANDINA SAS",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 889,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FRA-FLORAROMA S A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 890,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FR-FLORES DEL RIO",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 891,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FRL-STARFLOWERS CIA. LTDA.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 892,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FRN-FLORANDINA",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 893,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FRO-FLORÍCOLA ROOS CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 894,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FRS-FLORESRAMONA SAS",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 895,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FS-FALCONFARMS DE ECUADOR S.A. FINCA FLORES SANTA MÓNICA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 896,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FSH-FARINANGO QUINCHE SHEFERSON ESTUARDO (LAND MAGIC)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 897,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FSN-FLORICOLA SAN ISIDRO LABRADOR FLORSANI CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 898,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FSR-FLORES SANGUCHO ROBERTO CARLOS (ARYANNA ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 899,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FT-FINCA FLORENCANTO CIA LTDA FINENFLOR",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 900,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FTT-FLORICOLA ATTAROSES CIA. LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 901,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FTV-FLORICOLA TIERRA VERDE TIERRVERD CIA. LTDA.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 902,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FU-FLORES Y FRUTAS FLORIFRUT S A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 903,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FVE-FLORES VERDES SA FLORDES",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 904,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FVR-FLORVALSA FLORES VALAREZO S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 905,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FZ-FUNZA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 906,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "FRESH GARDENS SAS",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 907,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "G1-FRESH GARDENS SAS",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 908,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "GAA-GUAMAN AILLA AUGUSTO FERNANDO (EDELMY ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 909,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "GCE-GALLEGOS CUASCOTA EDISON PATRICIO (GALL GARDEN)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 910,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "GCS-GUACHAMIN CISNEROS SEGUNDO JUAN (PKL FLORAL_INSPIRE FLOR)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 911,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "GEX-GARDAEXPORT S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 912,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CI GUTIMILKO SA",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 913,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "GK-CI GUTIMILKO SA",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 914,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "GLX-GALAXYTRADE CORP CIA. LTDA.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 915,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "GN-GRANADA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 916,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "GQM-GUASGUA QUIMBIAMBA MARCO VINICIO (TOMAS FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 917,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "GRW-GROWERFARMS S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 918,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "GSR-GAMARRA SILVA ROGER RAUL ASUNCIÓN",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 919,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "GTJ-GUERRERO TULCANAZA JOSÉ JOAQUIN (JEMYG ROSAS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 920,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "GUA-GUAISA S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 921,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "GVS-GUZMAN VASQUEZ SEGUNDO ROGELIO (SISA YAKU)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 922,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "GWF-GWFLOWERS S.A.S",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 923,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "GREENEX SAS",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 924,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "GYP-GYPSO S A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 925,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "HEC-UTOPIA FARMS UTF S.A.S. (EL CHIVAN)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 926,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "HFF-HACIENDA SANTA FE FESAHA CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 927,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "HJV-HOJAVERDE CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 928,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "HMD-HACIENDA MIRAFLORES DE CHISINCHE SACHAFLOR CIA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 929,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "HO-HORTELANOS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 930,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "HPC-HERRERA POZO CARLOS BOLIVAR (LEON ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 931,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "HTJ-HORTIJARDINES S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 932,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "HV-HOJA VERDE",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 933,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "HXE-HOLEX ECUADOR S.A.S.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 934,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "IAP-AYALA PUGA FERNANDA ELIZABETH (FLORÍCOLA GUARAQUI)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 935,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "INR-INROSES S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 936,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "INV-INVERSIONES PONTETRESA S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 937,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "IRO-FLORICOLA I ROSE STB S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 938,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "IV-INVERPALMAS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 939,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "IYA-INVERSIONES YAKAREN S A S",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 940,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "JB-JUMBO",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 941,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "JB-JUMBOROSES CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 942,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "JE-SAN JOSE",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 943,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "JFF-JET FRESH FLOWER GROWERS OF ECUADOR JFFGROWERS S.A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 944,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "JJJ-JARAMILLO JARAMILLO JOSEFINA<br>GUADALUPE",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 945,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "JMF-JOSETH & MAXIMILIAN FLOWERS S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 946,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "EL JORDAN FARMS SAS",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 947,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "JOR-FLORICULTURA JOSARFLOR S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 948,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "JSL-JUMA SALAZAR LUIS OSWALDO",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 949,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "SKY FLOWERS S A S",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 950,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "K5-SKY ROSES COLOMBIA S A S",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 951,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "KAV-ALKAVAT CIA. LTDA.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 952,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "KFC-KAMYLAS FLOWERS C.L",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 953,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "KHU-AGRICOLA KHUYAY FARMAN AKHUFAR CIA. LTDA.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 954,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "KKF-CUASCOTA CUASCOTA JORGE OSWALDO (KIM KAROL FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 955,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "KU-PACIFIC",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 956,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "KYM-QUIMBITA CADENA BERTHA VERONICA (KEYCEM)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 957,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "L0-FLORES LATITUD CERO FLORLATCERO CIA  LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 958,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "L0-LATITUDE ZERO",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 959,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "LAD-CUJI COLLAGUAZO SEGUNDO AURELIO (ROSAS MARIAS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 960,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "LAN-UIO",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 961,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "LAT-FLORICOLA PALATUFLOWERS S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 962,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "LCJ-LEMA CHANCOSI JOSÉ FERNANDO (GENSY FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 963,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "LCL-LANDETA CONLAGO LUIS HERNAN (ROSAS LAND)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 964,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CELESTE FLOWERS SAS",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 965,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "LFA-ANTHEMON S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 966,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "LFC-LIVING FLOWER COMPANY",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 967,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "LFM-AGUILAR JARAMILLO MARIA CONSUELO (LUCERO FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 968,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "LG-LA GAITANA FARMS S A",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 969,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "LI-LATINFLOR S A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 970,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "LJF-LOJA FARMS",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 971,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "LLA-FLORICOLA LLANOS DE ALBA LLADEAL CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 972,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "LLE-MAYORGA CEVALLOS LUIS FELIPE",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 973,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "LLM-LLUMILUISA MAIGUA EDISON EDUARDO (SAMMY FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 974,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "LOLITA FLORES S A S",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 975,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "LOS-ROSAS DEL ALAMO",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 976,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "LP-PLAZOLETA",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 977,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "LSG-LAGLA SANTILLAN GLORIA SILVANA (NATURAL FRESH)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 978,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "LTL-TOAQUIZA PUCUJI ARTURO (T&T FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 979,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "LVC-LANDAETA VILLAMARIN CARLOS HUGO (NETZERIM-LOS RENUEVOS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 980,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "MAG-CACUANGO CACUANGO SEGUNDO ANDRES (MARINGARDENS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 981,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "MA-PLANTACIONES MALIMA CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 982,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "MB-FALCONFARMS DE ECUADOR S.A. FINCA MARÍA BONITA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 983,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "MCG-MANTILLA CHARRO GARY MARCELO (EUNOIA FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 984,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "MCL-MAIGUA CHILIQUINGA LUZ ANGÉLICA (ANGELUZ FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 985,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "MEG-MENDOZA MAIGUA EDISON GEOVANY",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 986,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "MASTERLY FLOWERS SAS",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 987,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "MFM-MALDONADO FERNANDEZ MARLENE (MARLE ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 988,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "MFR-MILANFLOR S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 989,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "MGF-MEGAFLOR",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 990,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "MIG-MOPOSA IMBA GLORIA VIVIANA (IVANVIV FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 991,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "MIP-MILTON PUGA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 992,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "MLC-MAIGUA LLUMILUISA CARLOS SANTIAGO",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 993,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "MLF-MILIFARMS CIA  LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 994,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "MLO-INDUSTRIAL Y AGROPECUARIA CLARCOMCORP CIA. LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 995,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "MLR-MILROSE S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 996,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "MME-MAIGUA MAIGUA EDISON ALEXANDER (FRESH FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 997,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "MMM-MAIGUA MAIGUA MARIA LUCILA (QUALITY HARVEST FARMS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 998,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "MN-FALCONFARMS DE ECUADOR S.A. FINCA MANUELA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 999,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "MNT-CLAUDIO REINOSO MARIA ELISABETH (MONET ROSES)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 1000,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "MOR-MORA MARCO VINICIO (FLORES RAMONA)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 1001,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "MPD-MOPOSA PENEIDA DIEGO FERNANDO",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 1002,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "MPL-MENDOZA PALLO LUIS RICARDO (ECUAFLORA)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 1003,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "MRC-MERIZALDE Y RAMIREZ CARNATIONS S A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 1004,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "MR-MADAMME ROSES S A S",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 1005,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "MRM-MILLON ROSES MILLONROSES S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 1006,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "MTR-COMERCIALIZADORA MONTEROS Y PAZMIÑO",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 1007,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "MUN-FLORES PARA EL MUNDO FLORMUNDO CIA. LTDA.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 1008,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "MW-MAIGUA MAIGUA JOSE GERMAN",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 1009,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "MYS-MYSTICFLOWERS S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 1010,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "MYT-MYRTIS FARMS S.A.S.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 1011,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "CULTIVOS MANZANARES SAS",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 1012,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "N4-NFC S A S",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 1013,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "NOVAMUNDI S A S",
+        "ubicacion": "Medellin",
+        "activo": true
+    },
+    {
+        "id": 1014,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "NAP-FLORES DE NAPOLES FLORNAPOL S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 1015,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "NEV-NEVADO ECUADOR NEVAECUADOR, S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 1016,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "NF-NOVELTY AND FLOWERS SAS",
+        "ubicacion": "nan",
+        "activo": true
+    },
+    {
+        "id": 1017,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "NFP-NATURAL FLOWERS AND PRODUCTS CIA. LTDA. NAFLOWP",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 1018,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "NI-NINTANGA S A",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 1019,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "NM-NEUMANN FLOWERS NEUFLOWERS CIA LTDA",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 1020,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "NNF-CUZCO CUPUERAN JUAN ALBERTO (EXPORTADORA NINA FLOWERS)",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 1021,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "NS-NATURAL FARMS SAS",
+        "ubicacion": "Bogota",
+        "activo": true
+    },
+    {
+        "id": 1022,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "NTF-NATUFLOR, S.A.",
+        "ubicacion": "Quito",
+        "activo": true
+    },
+    {
+        "id": 1023,
+        "tipo_actor": "GHT",
+        "nombre": "GHT Proyectos Logisticos",
+        "ubicacion": "",
+        "activo": true
+    },
+    {
+        "id": 1024,
+        "tipo_actor": "GHT",
+        "nombre": "GHT Comercio Exterior",
+        "ubicacion": "",
+        "activo": true
+    },
+    {
+        "id": 1025,
+        "tipo_actor": "7K",
+        "nombre": "7K Logistica",
+        "ubicacion": "",
+        "activo": true
+    },
+    {
+        "id": 1026,
+        "tipo_actor": "AdA",
+        "nombre": "AdA Operaciones",
+        "ubicacion": "",
+        "activo": true
+    },
+    {
+        "id": 1027,
+        "tipo_actor": "AdC",
+        "nombre": "AdC Exportaciones",
+        "ubicacion": "",
+        "activo": true
+    },
+    {
+        "id": 1028,
+        "tipo_actor": "BDS",
+        "nombre": "BDS Breakdown Services",
+        "ubicacion": "",
+        "activo": true
+    },
+    {
+        "id": 1029,
+        "tipo_actor": "CECO",
+        "nombre": "CECO Operaciones",
+        "ubicacion": "",
+        "activo": true
+    },
+    {
+        "id": 1030,
+        "tipo_actor": "CEDI",
+        "nombre": "CEDI BG Tocancipa",
+        "ubicacion": "",
+        "activo": true
+    },
+    {
+        "id": 1031,
+        "tipo_actor": "EAI",
+        "nombre": "EAI Operaciones",
+        "ubicacion": "",
+        "activo": true
+    },
+    {
+        "id": 1032,
+        "tipo_actor": "EAI_TERCEROS",
+        "nombre": "EAI Terceros",
+        "ubicacion": "",
+        "activo": true
+    },
+    {
+        "id": 1033,
+        "tipo_actor": "EI",
+        "nombre": "EI Exportaciones",
+        "ubicacion": "",
+        "activo": true
+    },
+    {
+        "id": 1034,
+        "tipo_actor": "ENTIDADES_GOBIERNO",
+        "nombre": "Entidades Gobierno",
+        "ubicacion": "",
+        "activo": true
+    },
+    {
+        "id": 1035,
+        "tipo_actor": "EXTERNO",
+        "nombre": "Externo",
+        "ubicacion": "",
+        "activo": true
+    },
+    {
+        "id": 1036,
+        "tipo_actor": "OCA",
+        "nombre": "OCA Bogota",
+        "ubicacion": "",
+        "activo": true
+    },
+    {
+        "id": 1037,
+        "tipo_actor": "OSL",
+        "nombre": "OSL Exportaciones Bogota",
+        "ubicacion": "",
+        "activo": true
+    },
+    {
+        "id": 1038,
+        "tipo_actor": "OTA",
+        "nombre": "OTA Aerolineas",
+        "ubicacion": "",
+        "activo": true
+    },
+    {
+        "id": 1039,
+        "tipo_actor": "OTM",
+        "nombre": "OTM Multimodal",
+        "ubicacion": "",
+        "activo": true
+    },
+    {
+        "id": 1040,
+        "tipo_actor": "OTT",
+        "nombre": "OTT Transportes",
+        "ubicacion": "",
+        "activo": true
+    },
+    {
+        "id": 1041,
+        "tipo_actor": "OTT_TERCEROS",
+        "nombre": "OTT Terceros",
+        "ubicacion": "",
+        "activo": true
+    },
+    {
+        "id": 1042,
+        "tipo_actor": "SPX",
+        "nombre": "SPX Speedy",
+        "ubicacion": "",
+        "activo": true
+    },
+    {
+        "id": 1043,
+        "tipo_actor": "TTE_INBOUND_DESTINO",
+        "nombre": "TTE Inbound Destino",
+        "ubicacion": "",
+        "activo": true
+    },
+    {
+        "id": 1044,
+        "tipo_actor": "UC",
+        "nombre": "UC Unidad de Carga",
+        "ubicacion": "",
+        "activo": true
+    },
+    {
+        "id": 1045,
+        "tipo_actor": "EAI",
+        "nombre": "Finca Manuelita",
+        "ubicacion": "",
+        "activo": true
+    },
+    {
+        "id": 1046,
+        "tipo_actor": "AdC",
+        "nombre": "AdC EXP BOG",
+        "ubicacion": "",
+        "activo": true
+    },
+    {
+        "id": 1047,
+        "tipo_actor": "CEDI",
+        "nombre": "BG-Tocancipa",
+        "ubicacion": "",
+        "activo": true
+    }
+]

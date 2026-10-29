@@ -1,0 +1,1606 @@
+{
+    "NOV-20260914-001": {
+        "id": "NOV-20260914-001",
+        "tipo_novedad": "ARRIBO_DEMORA",
+        "tipologia": "OPR",
+        "tipo_operacion": [
+            "exportacion",
+            "importacion",
+            "mvcs"
+        ],
+        "tipo_actor_reportante": "GHT",
+        "organizacion": "GHT Comercio Exterior",
+        "usuario_reportante": "admin",
+        "estado": "resuelta",
+        "fecha_creacion": "2026-09-14 21:06:27",
+        "fecha_despacho": "2026-09-14",
+        "causal": "CIERRE VIAL",
+        "causal2": "ACCIDENTE VIAL",
+        "datos": {
+            "Descripción": "esta novedad es de ejemplo para verificar que si llegue y se guarde",
+            "Fecha Despacho": "2026-09-14"
+        },
+        "involucra_terrestre": false,
+        "involucra_vuelo": false,
+        "respondentes": [
+            "CEDI",
+            "EAI",
+            "EAI_TERCEROS",
+            "OTT",
+            "OTT_TERCEROS"
+        ],
+        "respondentes_usuarios": [
+            "eai_manuelita",
+            "eai_manuelita2",
+            "cedi_bg",
+            "cedi_bg2"
+        ],
+        "hilo": [
+            {
+                "autor": "admin",
+                "nombre": "Administrador General",
+                "fecha": "2026-09-14 21:06",
+                "tipo": "reporte",
+                "mensaje": "esta novedad es de ejemplo para verificar que si llegue y se guarde",
+                "adjuntos": []
+            },
+            {
+                "autor": "admin",
+                "nombre": "Administrador General",
+                "fecha": "2026-10-06 11:34",
+                "tipo": "cierre",
+                "mensaje": "Novedad marcada como resuelta.",
+                "adjuntos": []
+            }
+        ],
+        "resuelto_por": "admin",
+        "fecha_resolucion": "2026-10-06 11:34:55",
+        "updated_at": "2026-10-06 11:34:55"
+    },
+    "NOV-002": {
+        "id": "NOV-002",
+        "tipo_novedad": "ARRIBO_DEMORA",
+        "tipologia": "OPR",
+        "tipo_operacion": [
+            "exportacion"
+        ],
+        "tipo_actor_reportante": "CEDI",
+        "organizacion": "BG-Tocancipá",
+        "usuario_reportante": "cedi_bg",
+        "estado": "resuelta",
+        "fecha_creacion": "2026-09-03 11:15:00",
+        "causal": "TRAFICO",
+        "datos": {
+            "EAI": "Finca Las Palmas",
+            "OTT": "Logística Nacional Ltda.",
+            "Placa": "SBC-901",
+            "Conductor": "Carlos Rodríguez",
+            "Descripción": "Vehículo con demora de 2 horas por tráfico en vía Bogotá-Tocancipá."
+        },
+        "involucra_terrestre": true,
+        "involucra_vuelo": false,
+        "hilo": [
+            {
+                "autor": "cedi_bg",
+                "nombre": "Reportante CEDI BG Tocancipá",
+                "fecha": "2026-09-03 11:15",
+                "tipo": "reporte",
+                "mensaje": "El vehículo con placa SBC-901 presenta demora de 2 horas. Se solicita confirmación de hora estimada de llegada.",
+                "adjuntos": []
+            },
+            {
+                "autor": "gestor_osl",
+                "nombre": "Gestor OSL Bogotá",
+                "fecha": "2026-09-03 11:40",
+                "tipo": "respuesta",
+                "mensaje": "Contactado el conductor. Informa que hay cierre vial en la Autopista Norte. ETA estimado 13:30.",
+                "adjuntos": []
+            },
+            {
+                "autor": "cedi_bg",
+                "nombre": "Reportante CEDI BG Tocancipá",
+                "fecha": "2026-09-03 13:45",
+                "tipo": "replica",
+                "mensaje": "El vehículo llegó a las 13:50. Pendiente verificar si afectó el vuelo programado.",
+                "adjuntos": []
+            },
+            {
+                "autor": "admin",
+                "nombre": "Administrador General",
+                "fecha": "2026-09-15 09:49",
+                "tipo": "respuesta",
+                "mensaje": "ya se solucionó",
+                "adjuntos": []
+            },
+            {
+                "autor": "admin",
+                "nombre": "Administrador General",
+                "fecha": "2026-09-15 09:49",
+                "tipo": "cierre",
+                "mensaje": "Novedad marcada como resuelta.",
+                "adjuntos": []
+            }
+        ],
+        "resuelto_por": "admin",
+        "fecha_resolucion": "2026-09-15 09:49:42"
+    },
+    "NOV-20260915-003": {
+        "id": "NOV-20260915-003",
+        "tipo_novedad": "CONTEO_INCORRECTO",
+        "tipologia": "OPR",
+        "tipo_operacion": [
+            "mvcs"
+        ],
+        "tipo_actor_reportante": "GHT",
+        "organizacion": "GHT Proyectos Logisticos",
+        "usuario_reportante": "admin",
+        "estado": "resuelta",
+        "fecha_creacion": "2026-09-15 16:54:02",
+        "fecha_despacho": "2026-09-15",
+        "causal": null,
+        "causal2": null,
+        "datos": {
+            "Descripción": "esta es una novedad de prueba",
+            "Fecha Despacho": "2026-09-15"
+        },
+        "involucra_terrestre": false,
+        "involucra_vuelo": false,
+        "respondentes": [
+            "EAI",
+            "OCA",
+            "OTT"
+        ],
+        "respondentes_usuarios": [
+            "gestor_oca",
+            "eai_manuelita",
+            "eai_manuelita2"
+        ],
+        "hilo": [
+            {
+                "autor": "admin",
+                "nombre": "Administrador General",
+                "fecha": "2026-09-15 16:54",
+                "tipo": "reporte",
+                "mensaje": "esta es una novedad de prueba",
+                "adjuntos": []
+            },
+            {
+                "autor": "admin",
+                "nombre": "Administrador General",
+                "fecha": "2026-10-06 11:35",
+                "tipo": "cierre",
+                "mensaje": "Novedad marcada como resuelta.",
+                "adjuntos": []
+            }
+        ],
+        "resuelto_por": "admin",
+        "fecha_resolucion": "2026-10-06 11:35:01",
+        "updated_at": "2026-10-06 11:35:01"
+    },
+    "NOV-20260924-004": {
+        "id": "NOV-20260924-004",
+        "tipo_novedad": "BITACORA_TEMPORADA",
+        "tipologia": "OPR",
+        "tipo_operacion": [
+            "importacion"
+        ],
+        "tipo_actor_reportante": "GHT",
+        "organizacion": "GHT Proyectos Logisticos",
+        "usuario_reportante": "admin",
+        "estado": "resuelta",
+        "fecha_creacion": "2026-09-24 10:03:09",
+        "fecha_despacho": "",
+        "causal": null,
+        "causal2": null,
+        "datos": {
+            "Descripción": "ESTA NOVEDAD ES DE EJEMPLO"
+        },
+        "involucra_terrestre": false,
+        "involucra_vuelo": false,
+        "respondentes": [
+            "AdC",
+            "EAI",
+            "OCA",
+            "OTA",
+            "OTT"
+        ],
+        "respondentes_usuarios": [
+            "gestor_oca",
+            "eai_manuelita",
+            "eai_manuelita2",
+            "adc_bog",
+            "adc_mde"
+        ],
+        "hilo": [
+            {
+                "autor": "admin",
+                "nombre": "Administrador General",
+                "fecha": "2026-09-24 10:03",
+                "tipo": "reporte",
+                "mensaje": "ESTA NOVEDAD ES DE EJEMPLO",
+                "adjuntos": []
+            },
+            {
+                "autor": "admin",
+                "nombre": "Administrador General",
+                "fecha": "2026-10-06 11:35",
+                "tipo": "cierre",
+                "mensaje": "Novedad marcada como resuelta.",
+                "adjuntos": []
+            }
+        ],
+        "resuelto_por": "admin",
+        "fecha_resolucion": "2026-10-06 11:35:05",
+        "updated_at": "2026-10-06 11:35:05"
+    },
+    "NOV-20260928-005": {
+        "id": "NOV-20260928-005",
+        "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+        "tipologia": "SST",
+        "tipo_operacion": [
+            "importacion"
+        ],
+        "tipo_actor_reportante": "GHT",
+        "organizacion": "GHT Proyectos Logisticos",
+        "usuario_reportante": "admin",
+        "estado": "resuelta",
+        "fecha_creacion": "2026-09-28 23:00:59",
+        "fecha_despacho": "",
+        "causal": "ADELANTO_CARGA_OTA",
+        "causal2": null,
+        "datos": {
+            "Descripcion": "ESTA NOVEDAD ES DE EJEMPLO",
+            "Hora Reporte": "22:59"
+        },
+        "involucra_terrestre": true,
+        "involucra_vuelo": true,
+        "respondentes": [
+            "AdC",
+            "CECO",
+            "CEDI",
+            "EAI",
+            "OCA",
+            "OSL",
+            "OTT"
+        ],
+        "respondentes_usuarios": [
+            "gestor_osl",
+            "gestor_oca",
+            "eai_manuelita",
+            "eai_manuelita2",
+            "cedi_bg",
+            "cedi_bg2",
+            "adc_bog",
+            "adc_mde"
+        ],
+        "hilo": [
+            {
+                "autor": "admin",
+                "nombre": "Administrador General",
+                "fecha": "2026-09-28 23:00",
+                "tipo": "reporte",
+                "mensaje": "ESTA NOVEDAD ES DE EJEMPLO",
+                "adjuntos": []
+            },
+            {
+                "autor": "admin",
+                "nombre": "Administrador General",
+                "fecha": "2026-10-06 11:35",
+                "tipo": "cierre",
+                "mensaje": "Novedad marcada como resuelta.",
+                "adjuntos": []
+            }
+        ],
+        "resuelto_por": "admin",
+        "fecha_resolucion": "2026-10-06 11:35:12",
+        "updated_at": "2026-10-06 11:35:12"
+    },
+    "NOV-20261006-006": {
+        "id": "NOV-20261006-006",
+        "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+        "tipologia": "SST",
+        "tipo_operacion": [
+            "mvcs"
+        ],
+        "tipo_actor_reportante": "GHT",
+        "organizacion": "GHT Proyectos Logisticos",
+        "usuario_reportante": "admin",
+        "estado": "resuelta",
+        "fecha_creacion": "2026-10-06 09:23:54",
+        "fecha_despacho": "",
+        "causal": null,
+        "causal2": null,
+        "datos": {
+            "Descripcion": "NOVEDAD DE EJEMPLO SE ESPERA RESPUESTA DEL RESPONSABLE",
+            "Eje": "",
+            "Tipo": "",
+            "Subtipo": "",
+            "Nombre": ""
+        },
+        "involucra_terrestre": true,
+        "involucra_vuelo": true,
+        "respondentes": [
+            "AdC",
+            "CECO",
+            "CEDI",
+            "EAI",
+            "OCA",
+            "OSL",
+            "OTT"
+        ],
+        "respondentes_usuarios": [
+            "gestor_osl",
+            "gestor_oca",
+            "eai_manuelita",
+            "eai_manuelita2",
+            "cedi_bg",
+            "cedi_bg2",
+            "adc_bog",
+            "adc_mde"
+        ],
+        "hilo": [
+            {
+                "autor": "admin",
+                "nombre": "Administrador General",
+                "fecha": "2026-10-06 09:23",
+                "tipo": "reporte",
+                "mensaje": "NOVEDAD DE EJEMPLO SE ESPERA RESPUESTA DEL RESPONSABLE",
+                "adjuntos": []
+            },
+            {
+                "autor": "admin",
+                "nombre": "Administrador General",
+                "fecha": "2026-10-06 11:35",
+                "tipo": "cierre",
+                "mensaje": "Novedad marcada como resuelta.",
+                "adjuntos": []
+            }
+        ],
+        "resuelto_por": "admin",
+        "fecha_resolucion": "2026-10-06 11:35:16",
+        "updated_at": "2026-10-06 11:35:16"
+    },
+    "NOV-20261006-007": {
+        "id": "NOV-20261006-007",
+        "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+        "tipologia": "SST",
+        "tipo_operacion": [
+            "mvcs"
+        ],
+        "tipo_actor_reportante": "GHT",
+        "organizacion": "GHT Proyectos Logisticos",
+        "usuario_reportante": "admin",
+        "estado": "resuelta",
+        "fecha_creacion": "2026-10-06 09:25:50",
+        "fecha_despacho": "",
+        "causal": null,
+        "causal2": null,
+        "datos": {
+            "Descripcion": "NOVEDAD DE EJEMPLO SE ESPERA RESPUESTA DEL RESPONSABLE",
+            "Eje": "",
+            "Tipo": "",
+            "Subtipo": "",
+            "Nombre": ""
+        },
+        "involucra_terrestre": true,
+        "involucra_vuelo": true,
+        "respondentes": [
+            "AdC",
+            "CECO",
+            "CEDI",
+            "EAI",
+            "OCA",
+            "OSL",
+            "OTT"
+        ],
+        "respondentes_usuarios": [
+            "gestor_osl",
+            "gestor_oca",
+            "eai_manuelita",
+            "eai_manuelita2",
+            "cedi_bg",
+            "cedi_bg2",
+            "adc_bog",
+            "adc_mde"
+        ],
+        "hilo": [
+            {
+                "autor": "admin",
+                "nombre": "Administrador General",
+                "fecha": "2026-10-06 09:25",
+                "tipo": "reporte",
+                "mensaje": "NOVEDAD DE EJEMPLO SE ESPERA RESPUESTA DEL RESPONSABLE",
+                "adjuntos": []
+            },
+            {
+                "autor": "admin",
+                "nombre": "Administrador General",
+                "fecha": "2026-10-06 11:35",
+                "tipo": "cierre",
+                "mensaje": "Novedad marcada como resuelta.",
+                "adjuntos": []
+            }
+        ],
+        "resuelto_por": "admin",
+        "fecha_resolucion": "2026-10-06 11:35:21",
+        "updated_at": "2026-10-06 11:35:21"
+    },
+    "NOV-20261006-008": {
+        "id": "NOV-20261006-008",
+        "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+        "tipologia": "SST",
+        "tipo_operacion": [
+            "exportacion"
+        ],
+        "tipo_actor_reportante": "GHT",
+        "organizacion": "GHT Proyectos Logisticos",
+        "usuario_reportante": "admin",
+        "estado": "resuelta",
+        "fecha_creacion": "2026-10-06 09:34:53",
+        "fecha_despacho": "",
+        "causal": null,
+        "causal2": null,
+        "datos": {
+            "Descripcion": "novedad de ejemplo",
+            "Eje": "",
+            "Tipo": "",
+            "Subtipo": "",
+            "Nombre": ""
+        },
+        "involucra_terrestre": true,
+        "involucra_vuelo": true,
+        "respondentes": [
+            "AdC",
+            "CECO",
+            "CEDI",
+            "EAI",
+            "OCA",
+            "OSL",
+            "OTT"
+        ],
+        "respondentes_usuarios": [
+            "gestor_osl",
+            "gestor_oca",
+            "eai_manuelita",
+            "eai_manuelita2",
+            "cedi_bg",
+            "cedi_bg2",
+            "adc_bog",
+            "adc_mde"
+        ],
+        "hilo": [
+            {
+                "autor": "admin",
+                "nombre": "Administrador General",
+                "fecha": "2026-10-06 09:34",
+                "tipo": "reporte",
+                "mensaje": "novedad de ejemplo",
+                "adjuntos": []
+            },
+            {
+                "autor": "admin",
+                "nombre": "Administrador General",
+                "fecha": "2026-10-06 11:35",
+                "tipo": "cierre",
+                "mensaje": "Novedad marcada como resuelta.",
+                "adjuntos": []
+            }
+        ],
+        "resuelto_por": "admin",
+        "fecha_resolucion": "2026-10-06 11:35:28",
+        "updated_at": "2026-10-06 11:35:28"
+    },
+    "NOV-20261006-009": {
+        "id": "NOV-20261006-009",
+        "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+        "tipologia": "SST",
+        "tipo_operacion": [
+            "exportacion"
+        ],
+        "tipo_actor_reportante": "GHT",
+        "organizacion": "GHT Proyectos Logisticos",
+        "usuario_reportante": "admin",
+        "estado": "resuelta",
+        "fecha_creacion": "2026-10-06 10:06:05",
+        "fecha_despacho": "",
+        "hora_despacho": "",
+        "causal": null,
+        "datos": {
+            "Descripcion": "NOVEDAD DE EJEMPLO ADJUNTO A USUARIO DE EJEMPLO",
+            "Eje": "",
+            "Tipo": "",
+            "Subtipo": "",
+            "Nombre": ""
+        },
+        "involucra_terrestre": true,
+        "involucra_vuelo": true,
+        "respondentes": [
+            "AdC",
+            "CECO",
+            "CEDI",
+            "EAI",
+            "OCA",
+            "OSL",
+            "OTT"
+        ],
+        "respondentes_usuarios": [
+            "eai_manuelita"
+        ],
+        "destinatarios": [
+            {
+                "usuario": "eai_manuelita",
+                "nombre": "Reportante Finca Manuelita",
+                "tipo_actor": "EAI",
+                "organizacion": "Finca Manuelita",
+                "correo": "",
+                "principal": true,
+                "externo": false
+            }
+        ],
+        "hilo": [
+            {
+                "autor": "admin",
+                "nombre": "Administrador General",
+                "fecha": "2026-10-06 10:06",
+                "tipo": "reporte",
+                "mensaje": "NOVEDAD DE EJEMPLO ADJUNTO A USUARIO DE EJEMPLO",
+                "adjuntos": []
+            },
+            {
+                "autor": "admin",
+                "nombre": "Administrador General",
+                "fecha": "2026-10-06 11:35",
+                "tipo": "cierre",
+                "mensaje": "Novedad marcada como resuelta.",
+                "adjuntos": []
+            }
+        ],
+        "resuelto_por": "admin",
+        "fecha_resolucion": "2026-10-06 11:35:32",
+        "updated_at": "2026-10-06 11:35:32"
+    },
+    "NOV-20261006-010": {
+        "id": "NOV-20261006-010",
+        "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+        "tipologia": "SST",
+        "tipo_operacion": [
+            "importacion"
+        ],
+        "tipo_actor_reportante": "EAI",
+        "organizacion": "Finca Manuelita",
+        "usuario_reportante": "eai_manuelita",
+        "estado": "resuelta",
+        "fecha_creacion": "2026-10-06 10:07:15",
+        "fecha_despacho": "",
+        "hora_despacho": "",
+        "causal": null,
+        "datos": {
+            "Descripcion": "NOVEDAD DE EJEMPLO LE DEBE LLEGAR A ADMIN",
+            "Eje": "",
+            "Tipo": "",
+            "Subtipo": "",
+            "Nombre": ""
+        },
+        "involucra_terrestre": true,
+        "involucra_vuelo": true,
+        "respondentes": [
+            "AdC",
+            "CECO",
+            "CEDI",
+            "EAI",
+            "OCA",
+            "OSL",
+            "OTT"
+        ],
+        "respondentes_usuarios": [
+            "eai_manuelita2"
+        ],
+        "destinatarios": [
+            {
+                "usuario": "eai_manuelita2",
+                "nombre": "Reportante Finca Manuelita 2",
+                "tipo_actor": "EAI",
+                "organizacion": "Finca Manuelita",
+                "correo": "",
+                "principal": true,
+                "externo": false
+            }
+        ],
+        "hilo": [
+            {
+                "autor": "eai_manuelita",
+                "nombre": "Reportante Finca Manuelita",
+                "fecha": "2026-10-06 10:07",
+                "tipo": "reporte",
+                "mensaje": "NOVEDAD DE EJEMPLO LE DEBE LLEGAR A ADMIN",
+                "adjuntos": []
+            },
+            {
+                "autor": "admin",
+                "nombre": "Administrador General",
+                "fecha": "2026-10-06 11:35",
+                "tipo": "cierre",
+                "mensaje": "Novedad marcada como resuelta.",
+                "adjuntos": []
+            }
+        ],
+        "resuelto_por": "admin",
+        "fecha_resolucion": "2026-10-06 11:35:36",
+        "updated_at": "2026-10-06 11:35:36"
+    },
+    "NOV-20261006-011": {
+        "id": "NOV-20261006-011",
+        "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+        "tipologia": "SST",
+        "tipo_operacion": [
+            "exportacion"
+        ],
+        "tipo_actor_reportante": "EAI",
+        "organizacion": "Finca Manuelita",
+        "usuario_reportante": "eai_manuelita",
+        "estado": "resuelta",
+        "fecha_creacion": "2026-10-06 10:17:52",
+        "fecha_despacho": "",
+        "hora_despacho": "",
+        "causal": null,
+        "datos": {
+            "Descripcion": "EJEMPLO DE NOVEDAD",
+            "Eje": "",
+            "Tipo": "",
+            "Subtipo": "",
+            "Nombre": ""
+        },
+        "involucra_terrestre": true,
+        "involucra_vuelo": true,
+        "respondentes": [
+            "AdC",
+            "CECO",
+            "CEDI",
+            "EAI",
+            "OCA",
+            "OSL",
+            "OTT"
+        ],
+        "respondentes_usuarios": [
+            "gestor_oca"
+        ],
+        "destinatarios": [
+            {
+                "usuario": "gestor_oca",
+                "nombre": "Gestor OCA Bogotá",
+                "tipo_actor": "OCA",
+                "organizacion": "OCA Bogotá",
+                "correo": "",
+                "principal": true,
+                "externo": false
+            }
+        ],
+        "hilo": [
+            {
+                "autor": "eai_manuelita",
+                "nombre": "Reportante Finca Manuelita",
+                "fecha": "2026-10-06 10:17",
+                "tipo": "reporte",
+                "mensaje": "EJEMPLO DE NOVEDAD",
+                "adjuntos": []
+            },
+            {
+                "autor": "admin",
+                "nombre": "Administrador General",
+                "fecha": "2026-10-06 11:35",
+                "tipo": "cierre",
+                "mensaje": "Novedad marcada como resuelta.",
+                "adjuntos": []
+            }
+        ],
+        "resuelto_por": "admin",
+        "fecha_resolucion": "2026-10-06 11:35:41",
+        "updated_at": "2026-10-06 11:35:41"
+    },
+    "NOV-20261006-012": {
+        "id": "NOV-20261006-012",
+        "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+        "tipologia": "SST",
+        "tipo_operacion": [
+            "exportacion"
+        ],
+        "tipo_actor_reportante": "EAI",
+        "organizacion": "Finca Manuelita",
+        "usuario_reportante": "eai_manuelita",
+        "estado": "resuelta",
+        "fecha_creacion": "2026-10-06 10:53:12",
+        "fecha_despacho": "",
+        "hora_despacho": "",
+        "causal": null,
+        "datos": {
+            "Descripcion": "NOVEDAD DE EJEMPLO",
+            "Eje": "",
+            "Tipo": "",
+            "Subtipo": "",
+            "Nombre": ""
+        },
+        "involucra_terrestre": true,
+        "involucra_vuelo": true,
+        "respondentes": [
+            "AdC",
+            "CECO",
+            "CEDI",
+            "EAI",
+            "OCA",
+            "OSL",
+            "OTT"
+        ],
+        "respondentes_usuarios": [
+            "gestor_oca"
+        ],
+        "destinatarios": [
+            {
+                "usuario": "gestor_oca",
+                "nombre": "Gestor OCA Bogotá",
+                "tipo_actor": "OCA",
+                "organizacion": "OCA Bogotá",
+                "correo": "",
+                "principal": true,
+                "externo": false
+            }
+        ],
+        "hilo": [
+            {
+                "autor": "eai_manuelita",
+                "nombre": "Reportante Finca Manuelita",
+                "fecha": "2026-10-06 10:53",
+                "tipo": "reporte",
+                "mensaje": "NOVEDAD DE EJEMPLO",
+                "adjuntos": []
+            },
+            {
+                "autor": "admin",
+                "nombre": "Administrador General",
+                "fecha": "2026-10-06 10:54",
+                "tipo": "respuesta",
+                "mensaje": "NOVEDAD YA LLEGA A ADMIN",
+                "adjuntos": []
+            },
+            {
+                "autor": "torre_control",
+                "nombre": "Torre de Control GHT",
+                "fecha": "2026-10-06 10:54",
+                "tipo": "respuesta",
+                "mensaje": "NOVEDAD YA LLEGA A TORRE DE CONTROL",
+                "adjuntos": []
+            },
+            {
+                "autor": "admin",
+                "nombre": "Administrador General",
+                "fecha": "2026-10-06 11:36",
+                "tipo": "cierre",
+                "mensaje": "Novedad marcada como resuelta.",
+                "adjuntos": []
+            }
+        ],
+        "resuelto_por": "admin",
+        "fecha_resolucion": "2026-10-06 11:36:06",
+        "updated_at": "2026-10-06 11:36:06"
+    },
+    "NOV-20261006-013": {
+        "id": "NOV-20261006-013",
+        "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+        "tipologia": "SST",
+        "tipo_operacion": [
+            "exportacion"
+        ],
+        "tipo_actor_reportante": "EAI",
+        "organizacion": "Finca Manuelita",
+        "usuario_reportante": "eai_manuelita",
+        "estado": "resuelta",
+        "fecha_creacion": "2026-10-06 11:31:32",
+        "fecha_despacho": "",
+        "hora_despacho": "",
+        "causal": null,
+        "datos": {
+            "Descripcion": "EJEMPLO DE NOVEDAD PARA LIMPIEZA",
+            "Eje": "",
+            "Tipo": "",
+            "Subtipo": "",
+            "Nombre": ""
+        },
+        "involucra_terrestre": true,
+        "involucra_vuelo": true,
+        "respondentes": [
+            "AdC",
+            "CECO",
+            "CEDI",
+            "EAI",
+            "OCA",
+            "OSL",
+            "OTT"
+        ],
+        "respondentes_usuarios": [
+            "adc_bog"
+        ],
+        "destinatarios": [
+            {
+                "usuario": "adc_bog",
+                "nombre": "Reportante AdC EXP BOG",
+                "tipo_actor": "AdC",
+                "organizacion": "EXP BOG",
+                "correo": "",
+                "principal": true,
+                "externo": false
+            }
+        ],
+        "hilo": [
+            {
+                "autor": "eai_manuelita",
+                "nombre": "Reportante Finca Manuelita",
+                "fecha": "2026-10-06 11:31",
+                "tipo": "reporte",
+                "mensaje": "EJEMPLO DE NOVEDAD PARA LIMPIEZA",
+                "adjuntos": []
+            },
+            {
+                "autor": "admin",
+                "nombre": "Administrador General",
+                "fecha": "2026-10-06 11:35",
+                "tipo": "cierre",
+                "mensaje": "Novedad marcada como resuelta.",
+                "adjuntos": []
+            }
+        ],
+        "resuelto_por": "admin",
+        "fecha_resolucion": "2026-10-06 11:35:46",
+        "updated_at": "2026-10-06 11:35:46"
+    },
+    "NOV-003": {
+        "id": "NOV-003",
+        "tipo_novedad": "EPP_AUSENTE",
+        "tipologia": "SST",
+        "tipo_operacion": [
+            "exportacion"
+        ],
+        "tipo_actor_reportante": "EAI",
+        "organizacion": "Finca Manuelita",
+        "usuario_reportante": "eai_manuelita2",
+        "estado": "resuelta",
+        "fecha_creacion": "2026-09-05 07:30:00",
+        "causal": null,
+        "datos": {
+            "EAI": "Finca Manuelita",
+            "Descripción": "Operario en área de postcosecha sin guantes ni tapabocas. Personal externo de empresa contratista."
+        },
+        "involucra_terrestre": false,
+        "involucra_vuelo": false,
+        "hilo": [
+            {
+                "autor": "eai_manuelita2",
+                "nombre": "Reportante Finca Manuelita 2",
+                "fecha": "2026-09-05 07:30",
+                "tipo": "reporte",
+                "mensaje": "Se detectó operario de empresa contratista trabajando en postcosecha sin EPP básico (guantes, tapabocas). Se solicitó suspensión inmediata de actividad.",
+                "adjuntos": [
+                    "foto_epp_ausente.jpg"
+                ]
+            },
+            {
+                "autor": "admin",
+                "nombre": "Administrador General",
+                "fecha": "2026-10-06 11:34",
+                "tipo": "cierre",
+                "mensaje": "Novedad marcada como resuelta.",
+                "adjuntos": []
+            }
+        ],
+        "resuelto_por": "admin",
+        "fecha_resolucion": "2026-10-06 11:34:29",
+        "updated_at": "2026-10-06 11:34:29"
+    },
+    "NOV-006": {
+        "id": "NOV-006",
+        "tipo_novedad": "CONDUCTORES_Y_VEHICULOS_ERRADO",
+        "tipologia": "SEG",
+        "tipo_operacion": [
+            "exportacion"
+        ],
+        "tipo_actor_reportante": "CEDI",
+        "organizacion": "BG-FD",
+        "usuario_reportante": "cedi_bg2",
+        "estado": "resuelta",
+        "fecha_creacion": "2026-09-06 06:45:00",
+        "causal": null,
+        "datos": {
+            "OTT": "Logística Expresa",
+            "Placa": "KLP-332",
+            "Conductor": "Pedro Gómez",
+            "Cédula": "79845123",
+            "Descripción": "El conductor presentado no coincide con el registrado en el manifiesto de carga."
+        },
+        "involucra_terrestre": true,
+        "involucra_vuelo": false,
+        "hilo": [
+            {
+                "autor": "cedi_bg2",
+                "nombre": "Reportante CEDI BG-FD",
+                "fecha": "2026-09-06 06:45",
+                "tipo": "reporte",
+                "mensaje": "Conductor Pedro Gómez cédula 79845123 no coincide con el registrado en el manifiesto. Vehículo retenido en portería.",
+                "adjuntos": [
+                    "foto_cedula.jpg"
+                ]
+            },
+            {
+                "autor": "admin",
+                "nombre": "Administrador General",
+                "fecha": "2026-10-06 11:34",
+                "tipo": "cierre",
+                "mensaje": "Novedad marcada como resuelta.",
+                "adjuntos": []
+            }
+        ],
+        "resuelto_por": "admin",
+        "fecha_resolucion": "2026-10-06 11:34:41",
+        "updated_at": "2026-10-06 11:34:41"
+    },
+    "NOV-009": {
+        "id": "NOV-009",
+        "tipo_novedad": "CAJA_HURTADA",
+        "tipologia": "SEG",
+        "tipo_operacion": [
+            "exportacion"
+        ],
+        "tipo_actor_reportante": "EAI",
+        "organizacion": "Finca Manuelita",
+        "usuario_reportante": "eai_manuelita",
+        "estado": "resuelta",
+        "fecha_creacion": "2026-09-07 07:00:00",
+        "causal": "HURTO_CONFIRMADO",
+        "datos": {
+            "EAI": "Finca Manuelita",
+            "OTT": "Transportes Rápidos S.A.",
+            "Placa": "TRB-245",
+            "Conductor": "Juan Pérez",
+            "Descripción": "5 cajas con evidencia de hurto. Precintos rotos y producto faltante."
+        },
+        "involucra_terrestre": true,
+        "involucra_vuelo": false,
+        "hilo": [
+            {
+                "autor": "eai_manuelita",
+                "nombre": "Reportante Finca Manuelita",
+                "fecha": "2026-09-07 07:00",
+                "tipo": "reporte",
+                "mensaje": "5 cajas con evidencia de hurto. Precintos rotos, producto faltante. Se radicó denuncia ante autoridades. Adjunto fotos.",
+                "adjuntos": [
+                    "foto_precinto_roto_1.jpg",
+                    "foto_precinto_roto_2.jpg"
+                ]
+            },
+            {
+                "autor": "admin",
+                "nombre": "Administrador General",
+                "fecha": "2026-10-06 11:34",
+                "tipo": "cierre",
+                "mensaje": "Novedad marcada como resuelta.",
+                "adjuntos": []
+            }
+        ],
+        "resuelto_por": "admin",
+        "fecha_resolucion": "2026-10-06 11:34:47",
+        "updated_at": "2026-10-06 11:34:47"
+    },
+    "NOV-005": {
+        "id": "NOV-005",
+        "tipo_novedad": "CARTON_DANADO",
+        "tipologia": "OPR",
+        "tipo_operacion": [
+            "exportacion"
+        ],
+        "tipo_actor_reportante": "EAI",
+        "organizacion": "Finca Manuelita",
+        "usuario_reportante": "eai_manuelita",
+        "estado": "resuelta",
+        "fecha_creacion": "2026-09-04 09:00:00",
+        "causal": "MANEJO_INADECUADO",
+        "datos": {
+            "EAI": "Finca Manuelita",
+            "OTT": "Transportes Rápidos S.A.",
+            "Placa": "TRB-245",
+            "Conductor": "Juan Pérez",
+            "Descripción": "12 cartones con daño por humedad. Se identificaron al momento del descargue."
+        },
+        "involucra_terrestre": true,
+        "involucra_vuelo": false,
+        "hilo": [
+            {
+                "autor": "eai_manuelita",
+                "nombre": "Reportante Finca Manuelita",
+                "fecha": "2026-09-04 09:00",
+                "tipo": "reporte",
+                "mensaje": "12 cartones con daño por humedad detectados al descargue. Vehículo TRB-245.",
+                "adjuntos": [
+                    "foto_carton_danado.jpg"
+                ]
+            },
+            {
+                "autor": "gestor_osl",
+                "nombre": "Gestor OSL Bogotá",
+                "fecha": "2026-09-04 10:00",
+                "tipo": "respuesta",
+                "mensaje": "Revisando el reporte del transportador. ¿Los cartones tenían protección plástica al momento del cargue?",
+                "adjuntos": []
+            },
+            {
+                "autor": "admin",
+                "nombre": "Administrador General",
+                "fecha": "2026-10-06 11:35",
+                "tipo": "cierre",
+                "mensaje": "Novedad marcada como resuelta.",
+                "adjuntos": []
+            }
+        ],
+        "resuelto_por": "admin",
+        "fecha_resolucion": "2026-10-06 11:35:57",
+        "updated_at": "2026-10-06 11:35:57"
+    },
+    "NOV-011": {
+        "id": "NOV-011",
+        "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+        "tipologia": "SST",
+        "tipo_operacion": [
+            "exportacion"
+        ],
+        "tipo_actor_reportante": "CECO",
+        "organizacion": "TC1 GIRAG",
+        "usuario_reportante": "cedi_bg",
+        "estado": "resuelta",
+        "fecha_creacion": "2026-09-06 14:30:00",
+        "causal": null,
+        "datos": {
+            "CECO": "TC1 GIRAG",
+            "Descripción": "Operario sufrió corte en mano derecha durante operación de armado de cajas. Atendido por enfermería."
+        },
+        "involucra_terrestre": false,
+        "involucra_vuelo": false,
+        "hilo": [
+            {
+                "autor": "cedi_bg",
+                "nombre": "Reportante CEDI BG Tocancipá",
+                "fecha": "2026-09-06 14:30",
+                "tipo": "reporte",
+                "mensaje": "Accidente de trabajo: operario Diego Martínez con corte en mano derecha. Atendido en enfermería. Se suspende operación en mesa 4.",
+                "adjuntos": [
+                    "reporte_accidente_AT001.pdf"
+                ]
+            },
+            {
+                "autor": "gestor_oca",
+                "nombre": "Gestor OCA Bogotá",
+                "fecha": "2026-09-06 15:00",
+                "tipo": "respuesta",
+                "mensaje": "Recibido. Iniciando investigación de accidente según protocolo SST. ¿El operario requirió traslado a centro médico?",
+                "adjuntos": []
+            },
+            {
+                "autor": "admin",
+                "nombre": "Administrador General",
+                "fecha": "2026-10-06 11:36",
+                "tipo": "cierre",
+                "mensaje": "Novedad marcada como resuelta.",
+                "adjuntos": []
+            }
+        ],
+        "resuelto_por": "admin",
+        "fecha_resolucion": "2026-10-06 11:36:02",
+        "updated_at": "2026-10-06 11:36:02"
+    },
+    "NOV-20261013-019": {
+        "id": "NOV-20261013-019",
+        "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+        "tipologia": "SST",
+        "tipo_operacion": [
+            "importacion"
+        ],
+        "tipo_actor_reportante": "GHT",
+        "organizacion": "GHT Proyectos Logisticos",
+        "usuario_reportante": "admin",
+        "estado": "resuelta",
+        "fecha_creacion": "2026-10-13 10:48:46",
+        "fecha_despacho": "",
+        "hora_despacho": "",
+        "causal": null,
+        "datos": {
+            "Descripcion": "NOVEDAD DE EJEMPLO",
+            "Eje": "",
+            "Tipo": "",
+            "Subtipo": "",
+            "Nombre": ""
+        },
+        "involucra_terrestre": true,
+        "involucra_vuelo": true,
+        "respondentes": [
+            "AdC",
+            "CECO",
+            "CEDI",
+            "EAI",
+            "OCA",
+            "OSL",
+            "OTT"
+        ],
+        "respondentes_usuarios": [
+            "reportante_eai"
+        ],
+        "destinatarios": [
+            {
+                "usuario": "reportante_eai",
+                "nombre": "Reportante EAI Manuelita",
+                "tipo_actor": "EAI",
+                "organizacion": "Finca Manuelita",
+                "correo": "",
+                "principal": true,
+                "externo": false
+            }
+        ],
+        "hilo": [
+            {
+                "autor": "admin",
+                "nombre": "Administrador General",
+                "fecha": "2026-10-13 10:48",
+                "tipo": "reporte",
+                "mensaje": "NOVEDAD DE EJEMPLO",
+                "adjuntos": []
+            },
+            {
+                "autor": "torre_control",
+                "nombre": "Torre de Control GHT",
+                "fecha": "2026-10-13 10:51",
+                "tipo": "respuesta",
+                "mensaje": "si se evidencia",
+                "adjuntos": []
+            },
+            {
+                "autor": "admin",
+                "nombre": "Administrador General",
+                "fecha": "2026-10-13 11:49",
+                "tipo": "cierre",
+                "mensaje": "Novedad marcada como resuelta.",
+                "adjuntos": []
+            }
+        ],
+        "resuelto_por": "admin",
+        "fecha_resolucion": "2026-10-13 11:49:56",
+        "updated_at": "2026-10-13 11:49:56"
+    },
+    "NOV-20261013-020": {
+        "id": "NOV-20261013-020",
+        "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+        "tipologia": "SST",
+        "tipo_operacion": [
+            "importacion"
+        ],
+        "tipo_actor_reportante": "GHT",
+        "organizacion": "GHT Proyectos Logisticos",
+        "usuario_reportante": "admin",
+        "estado": "abierta",
+        "fecha_creacion": "2026-10-13 12:26:32",
+        "fecha_despacho": "",
+        "hora_despacho": "",
+        "causal": null,
+        "datos": {
+            "Descripcion": "NOVEDAD DE EJEMPLO",
+            "Eje": "",
+            "Tipo": "",
+            "Subtipo": "",
+            "Nombre": ""
+        },
+        "involucra_terrestre": true,
+        "involucra_vuelo": true,
+        "respondentes": [
+            "AdC",
+            "CECO",
+            "CEDI",
+            "EAI",
+            "OCA",
+            "OSL",
+            "OTT"
+        ],
+        "respondentes_usuarios": [
+            "gestor_eai"
+        ],
+        "destinatarios": [
+            {
+                "usuario": "gestor_eai",
+                "nombre": "Gestor EAI",
+                "tipo_actor": "EAI",
+                "organizacion": "EAI Operaciones",
+                "correo": "",
+                "principal": true,
+                "externo": false
+            }
+        ],
+        "hilo": [
+            {
+                "autor": "admin",
+                "nombre": "Administrador General",
+                "fecha": "2026-10-13 12:26",
+                "tipo": "reporte",
+                "mensaje": "NOVEDAD DE EJEMPLO",
+                "adjuntos": []
+            }
+        ],
+        "resuelto_por": null,
+        "fecha_resolucion": null,
+        "updated_at": "2026-10-13 12:26:32"
+    },
+    "NOV-20261013-021": {
+        "id": "NOV-20261013-021",
+        "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+        "tipologia": "SST",
+        "tipo_operacion": [
+            "importacion"
+        ],
+        "tipo_actor_reportante": "GHT",
+        "organizacion": "GHT Proyectos Logisticos",
+        "usuario_reportante": "admin",
+        "estado": "abierta",
+        "fecha_creacion": "2026-10-13 12:45:50",
+        "fecha_despacho": "",
+        "hora_despacho": "",
+        "causal": null,
+        "datos": {
+            "Descripcion": "novedad de ejemplo",
+            "Eje": "",
+            "Tipo": "",
+            "Subtipo": "",
+            "Nombre": ""
+        },
+        "involucra_terrestre": true,
+        "involucra_vuelo": true,
+        "respondentes": [
+            "AdC",
+            "CECO",
+            "CEDI",
+            "EAI",
+            "OCA",
+            "OSL",
+            "OTT"
+        ],
+        "respondentes_usuarios": [
+            "reportante_eai"
+        ],
+        "destinatarios": [
+            {
+                "usuario": "reportante_eai",
+                "nombre": "Reportante EAI Manuelita",
+                "tipo_actor": "EAI",
+                "organizacion": "Finca Manuelita",
+                "correo": "",
+                "principal": true,
+                "externo": false
+            }
+        ],
+        "hilo": [
+            {
+                "autor": "admin",
+                "nombre": "Administrador General",
+                "fecha": "2026-10-13 12:45",
+                "tipo": "reporte",
+                "mensaje": "novedad de ejemplo",
+                "adjuntos": []
+            }
+        ],
+        "resuelto_por": null,
+        "fecha_resolucion": null,
+        "updated_at": "2026-10-13 12:45:50"
+    },
+    "NOV-20261027-022": {
+        "id": "NOV-20261027-022",
+        "tipo_novedad": "CONDICIONES_INADECUADAS_PERSONAS",
+        "tipologia": "SST",
+        "tipologias": [
+            "SST"
+        ],
+        "tipo_operacion": [
+            "mvcs"
+        ],
+        "tipo_actor_reportante": "GHT",
+        "organizacion": "GHT Proyectos Logisticos",
+        "usuario_reportante": "admin",
+        "estado": "en_gestion",
+        "fecha_creacion": "2026-10-27 11:08:39",
+        "fecha_despacho": "",
+        "hora_despacho": "",
+        "causal": "CANSANCIO",
+        "datos": {
+            "Descripcion": "NOVEDAD DE EJEMPLO",
+            "Eje": "",
+            "Tipo": "",
+            "Subtipo": "",
+            "Nombre": ""
+        },
+        "involucra_terrestre": false,
+        "involucra_vuelo": false,
+        "respondentes": [
+            "AdC",
+            "CECO",
+            "CEDI",
+            "EAI",
+            "OCA",
+            "OSL",
+            "OTT"
+        ],
+        "respondentes_usuarios": [
+            "reportante_eai"
+        ],
+        "destinatarios": [
+            {
+                "usuario": "reportante_eai",
+                "nombre": "Reportante EAI Manuelita",
+                "tipo_actor": "EAI",
+                "organizacion": "Finca Manuelita",
+                "correo": "",
+                "principal": true,
+                "externo": false
+            }
+        ],
+        "hilo": [
+            {
+                "autor": "admin",
+                "nombre": "Nicolas Camargo",
+                "fecha": "2026-10-27 11:08",
+                "tipo": "reporte",
+                "mensaje": "NOVEDAD DE EJEMPLO",
+                "adjuntos": []
+            },
+            {
+                "autor": "admin",
+                "nombre": "Nicolas Camargo",
+                "fecha": "2026-10-27 11:18",
+                "tipo": "respuesta",
+                "mensaje": "p1",
+                "adjuntos": []
+            }
+        ],
+        "resuelto_por": null,
+        "fecha_resolucion": null,
+        "updated_at": "2026-10-27 11:18:32"
+    },
+    "NOV-20261027-023": {
+        "id": "NOV-20261027-023",
+        "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+        "tipologia": "SST",
+        "tipologias": [
+            "SST"
+        ],
+        "tipo_operacion": [
+            "exportacion"
+        ],
+        "tipo_actor_reportante": "GHT",
+        "organizacion": "GHT Proyectos Logisticos",
+        "usuario_reportante": "admin",
+        "estado": "resuelta",
+        "fecha_creacion": "2026-10-27 13:59:57",
+        "fecha_despacho": "2026-10-27",
+        "hora_despacho": "14:30",
+        "causal": null,
+        "datos": {
+            "Descripcion": "Prueba de flujo: accidente durante el cargue de un despacho terrestre. Conductor reporta caída al descender del vehículo.",
+            "Eje": "Personas",
+            "Tipo": "Actos Inseguros",
+            "Subtipo": "Conductas",
+            "Nombre": "ACCIDENTE DE TRABAJO",
+            "OTT": "OTT Transportes SAS",
+            "Placa": "SBC-901",
+            "Conductor": "Carlos Rodríguez",
+            "Auxiliar": "Luis Pérez",
+            "Cedula": "79123456",
+            "OTA": "OTA Bogotá",
+            "UC": "UC Norte",
+            "EAI": [
+                "EAI Manuelita"
+            ]
+        },
+        "involucra_terrestre": true,
+        "involucra_vuelo": true,
+        "respondentes": [
+            "AdC",
+            "CECO",
+            "CEDI",
+            "EAI",
+            "OCA",
+            "OSL",
+            "OTT"
+        ],
+        "respondentes_usuarios": [
+            "gestor_eai",
+            "gestor_ott"
+        ],
+        "destinatarios": [
+            {
+                "usuario": "gestor_eai",
+                "nombre": "Gestor EAI",
+                "tipo_actor": "EAI",
+                "organizacion": "EAI Operaciones",
+                "correo": "",
+                "principal": true,
+                "externo": false
+            },
+            {
+                "usuario": "gestor_ott",
+                "nombre": "Gestor OTT",
+                "tipo_actor": "OTT",
+                "organizacion": "OTT Transportes",
+                "correo": "",
+                "principal": false,
+                "externo": false
+            }
+        ],
+        "hilo": [
+            {
+                "autor": "admin",
+                "nombre": "Nicolas Camargo",
+                "fecha": "2026-10-27 13:59",
+                "tipo": "reporte",
+                "mensaje": "Prueba de flujo: accidente durante el cargue de un despacho terrestre. Conductor reporta caída al descender del vehículo.",
+                "adjuntos": []
+            },
+            {
+                "autor": "gestor_eai",
+                "nombre": "Gestor EAI",
+                "fecha": "2026-10-27 14:04",
+                "tipo": "respuesta",
+                "mensaje": "Recibido. Activamos el protocolo de accidentes: se notificó a la ARL y el coordinador de seguridad está en camino al punto de cargue. Solicito a OTT confirmar el estado del conductor y la placa SBC-901.",
+                "adjuntos": []
+            },
+            {
+                "autor": "gestor_ott",
+                "nombre": "Gestor OTT",
+                "fecha": "2026-10-27 14:05",
+                "tipo": "respuesta",
+                "mensaje": "OTT confirma: el conductor Carlos Rodríguez fue trasladado a valoración médica, está estable. El vehículo placa SBC-901 permanece detenido en el punto de cargue hasta nueva orden.",
+                "adjuntos": []
+            },
+            {
+                "autor": "admin",
+                "nombre": "Nicolas Camargo",
+                "fecha": "2026-10-27 14:13",
+                "tipo": "replica",
+                "mensaje": "Gracias por la respuesta. Necesito que EAI confirme el reporte a la ARL (número de caso) y que OTT envíe el informe del conductor antes de las 18:00 para poder cerrar.",
+                "adjuntos": []
+            },
+            {
+                "autor": "gestor_eai",
+                "nombre": "Gestor EAI",
+                "fecha": "2026-10-27 14:13",
+                "tipo": "respuesta",
+                "mensaje": "EAI confirma: caso ARL No. 2026-48817 radicado a las 14:20. Se adjunta el reporte al coordinador SST. Pendiente solo el informe de OTT.",
+                "adjuntos": []
+            },
+            {
+                "autor": "gestor_eai",
+                "nombre": "Gestor EAI",
+                "fecha": "2026-10-27 14:13",
+                "tipo": "cierre",
+                "mensaje": "Novedad marcada como resuelta.",
+                "adjuntos": []
+            }
+        ],
+        "resuelto_por": "gestor_eai",
+        "fecha_resolucion": "2026-10-27 14:13:48",
+        "updated_at": "2026-10-27 14:13:48"
+    },
+    "NOV-20261027-024": {
+        "id": "NOV-20261027-024",
+        "tipo_novedad": "ACCIDENTE_DE_TRABAJO",
+        "tipologia": "SST",
+        "tipologias": [
+            "SST"
+        ],
+        "tipo_operacion": [
+            "exportacion"
+        ],
+        "tipo_actor_reportante": "EAI",
+        "organizacion": "Finca Manuelita",
+        "usuario_reportante": "reportante_eai",
+        "estado": "resuelta",
+        "fecha_creacion": "2026-10-27 14:41:58",
+        "fecha_despacho": "2026-10-27",
+        "hora_despacho": "16:00",
+        "causal": null,
+        "datos": {
+            "Descripcion": "Prueba como reportante: colaborador se lesionó la mano al manipular un pallet durante el cargue. Se requiere atención y seguimiento del despacho.",
+            "Eje": "Personas",
+            "Tipo": "Actos Inseguros",
+            "Subtipo": "Conductas",
+            "Nombre": "ACCIDENTE DE TRABAJO",
+            "OTT": "OTT Transportes SAS",
+            "Placa": "TRK-552",
+            "Conductor": "Andrés Gómez",
+            "Auxiliar": "María Ruiz",
+            "Cedula": "52987654",
+            "OTA": "OTA Medellín",
+            "UC": "UC Sur",
+            "EAI": [
+                "EAI Manuelita"
+            ]
+        },
+        "involucra_terrestre": true,
+        "involucra_vuelo": true,
+        "respondentes": [
+            "AdC",
+            "CECO",
+            "CEDI",
+            "EAI",
+            "OCA",
+            "OSL",
+            "OTT"
+        ],
+        "respondentes_usuarios": [
+            "gestor_eai",
+            "gestor_ott"
+        ],
+        "destinatarios": [
+            {
+                "usuario": "gestor_eai",
+                "nombre": "Gestor EAI",
+                "tipo_actor": "EAI",
+                "organizacion": "EAI Operaciones",
+                "correo": "",
+                "principal": true,
+                "externo": false
+            },
+            {
+                "usuario": "gestor_ott",
+                "nombre": "Gestor OTT",
+                "tipo_actor": "OTT",
+                "organizacion": "OTT Transportes",
+                "correo": "",
+                "principal": false,
+                "externo": false
+            }
+        ],
+        "hilo": [
+            {
+                "autor": "reportante_eai",
+                "nombre": "Reportante EAI Manuelita",
+                "fecha": "2026-10-27 14:41",
+                "tipo": "reporte",
+                "mensaje": "Prueba como reportante: colaborador se lesionó la mano al manipular un pallet durante el cargue. Se requiere atención y seguimiento del despacho.",
+                "adjuntos": []
+            },
+            {
+                "autor": "gestor_eai",
+                "nombre": "Gestor EAI",
+                "fecha": "2026-10-27 14:42",
+                "tipo": "respuesta",
+                "mensaje": "Recibido. Se activó atención médica para el colaborador y se notificó a la ARL. Coordinamos con OTT la reprogramación del despacho de las 16:00.",
+                "adjuntos": []
+            },
+            {
+                "autor": "reportante_eai",
+                "nombre": "Reportante EAI Manuelita",
+                "fecha": "2026-10-27 14:42",
+                "tipo": "replica",
+                "mensaje": "Gracias. Confirmo que el colaborador ya fue atendido, pero falta la reprogramación del despacho con el transportador. Quedo atento antes de cerrar.",
+                "adjuntos": []
+            },
+            {
+                "autor": "gestor_eai",
+                "nombre": "Gestor EAI",
+                "fecha": "2026-10-27 14:42",
+                "tipo": "respuesta",
+                "mensaje": "Despacho reprogramado con OTT para las 18:30 y colaborador dado de alta médica. Procedo a cerrar.",
+                "adjuntos": []
+            },
+            {
+                "autor": "gestor_eai",
+                "nombre": "Gestor EAI",
+                "fecha": "2026-10-27 14:42",
+                "tipo": "cierre",
+                "mensaje": "Novedad marcada como resuelta.",
+                "adjuntos": []
+            }
+        ],
+        "resuelto_por": "gestor_eai",
+        "fecha_resolucion": "2026-10-27 14:42:51",
+        "updated_at": "2026-10-27 14:42:51"
+    }
+}
